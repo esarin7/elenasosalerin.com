@@ -1,0 +1,72 @@
+---
+title: Elena Sosa Lerín 👩🏻‍💻 Communications Specialist
+layout: layouts/basic.njk
+changefreq: weekly
+pagination:
+  data: collections.posts
+  size: 1.5
+  reverse: true
+  alias: posts
+---
+{% block content %}
+ 
+<main>
+      <section class="hero">
+        <div class="hero-intro">
+          <h1 class="dynamic">
+          Hello! <span class="wave" aria-label="Waving hand">👋</span>
+          </h1> 
+          <h1 class="dynamic">I'm Elena Sosa Lerín.</h1>
+          <p class="dynamic">
+            A curious and creative writer<br />
+            and communications specialist.
+          </p>
+          <p class="dynamic">
+            I work at the intersection of media, communications, storytelling,
+            and international affairs <br />for large and small organizations as
+            well as talented individuals.
+          </p>
+          <p class="dynamic">
+            Interested in working with me?
+          </p>
+          <!-- CTA styled link -->
+          <a class="intro-button grow" href="/contact"
+            >Let's&nbsp;Talk&nbsp;<span role="img" aria-label="left arrow">&rarr;</span> 
+        </a>
+        </div>
+      </section>
+
+<article class="latest-post">
+        <section>
+          <header class="latest-post-headline">
+            <h2>The Latest</h2>
+            <div class="separator"></div>
+          </header>
+{% for post in posts %}
+  <section class="single-post">
+          <h3>
+            {{ post.data.title }}
+          </h3>
+          <div class="separator"></div>
+          <div class="metadata">
+               <p class="date">
+                <span role="img" aria-label="lower-right pencil" class="pencil">&#9998;</span> 
+                  <time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time>
+               </p>
+             </div>
+      
+          <p>
+            {{ post.data.description }}
+          </p>
+        </section>
+        <!-- Continue Reading link -->
+        <div class="continue slide">
+          <a href="{{ post.url | url }}">Read More&nbsp;&rarr; </a>
+        </div>
+
+
+      </article>
+    {% endfor %}
+</main>
+{% endblock %}          
+    

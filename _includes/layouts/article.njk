@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+<title> {{ title }} </title>
+ {% include "layouts/page-head.njk" %}
+</head>
+
+<body>
+  {% include "layouts/nav.njk" %}
+  
+  <article class="content-post">
+     <section class="single-post">
+        <h3> {{ title }} </h3>
+           <div class="separator"></div>
+             
+        {{ content | safe }}
+        
+<div class="hr"></div>   
+  <p>
+  Follow me on <span class="thick">Twitter: </span><a href="https://twitter.com/e_sarin" target="blank"> @e_sarin</a>. <span class="thick">Email</span> me your thoughts, suggestions, or critiques at: <a href="mailto:elenasosalerin@gmail.com" target="blank"> elenasosalerin@gmail.com</a>.
+  </p>
+     </section>
+
+   <nav>
+   <div class="continue slide">
+          <a href="/writing">&larr;&nbsp;See all my articles</a>
+   </div>
+</nav>
+
+  </article> 
+
+  {% include "layouts/footer.njk" %}
+  {% include "layouts/footer-scripts.njk" %}
+</body>

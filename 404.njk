@@ -1,0 +1,32 @@
+---
+title: 404 Not Found 
+layout: layouts/basic-plus.njk
+about: Uh oh...
+description: Something's Wrong Here.
+permalink: 404.html
+eleventyExcludeFromCollections: true
+---
+{% block content %}
+
+ <article class="content-post">
+    <section class="single-post">
+    <h3>Oops! Sorry.</h3>
+
+<p>This is an 404 error, which means whatever you're looking for can't be found.</p>
+
+<p>Most likely what you're looking for was moved, removed, renamed, or doesn't exist.</p>
+
+<p>You can go back. Or try any of these options:</p>
+
+<ul class="list">
+        <li><a href="/">Home</a></li>
+        <li><a href="/notebook">Notebook</a></li>
+        <li><a href="/writing">Writing</a></li>
+</ul>
+
+<p>Or <a href="/contact"> let me know</a> how I can help you.</p>
+
+</section>
+  </article>
+
+ {% endblock %}    

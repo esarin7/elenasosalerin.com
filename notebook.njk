@@ -1,0 +1,66 @@
+---
+title: Notebook | Elena Sosa Lerín
+layout: layouts/basic-plus.njk
+changefreq: weekly
+pagination:
+  data: collections.posts
+  size: 5
+  reverse: true
+  alias: posts
+about: Notes
+description: Thoughts on media, culture, technology, and world news. Sometimes
+              reflections about my travels. Interesting things I find on the internet.
+
+---
+<article class="main-content">
+  <section class="general-content">
+
+  {% for post in posts %}
+
+      <section class="single-post">
+          <h3>
+            {{ post.data.title }}
+          </h3>
+          <div class="separator"></div>
+          <div class="metadata">
+                <p class="date">
+                <span role="img" aria-label="lower-right pencil" class="pencil">&#9998;</span>
+                  <time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time> 
+                </p>
+             </div>
+          <p>
+            {{ post.data.description }}
+          </p>
+        </section>
+
+        <!-- Continue Reading link -->
+        <div class="continue slide">
+          <a href="{{ post.url | url }}">Read More&nbsp;&rarr; </a>
+        </div>
+  {% endfor %}
+
+<nav> 
+<div class="prev-next">
+
+{% if pagination.previous %}
+<a href="{{ pagination.previousPageLink | url }}">&larr;&nbsp;Latest Notes</a>
+{% endif %}
+
+{% if pagination.next %}
+<a href="{{ pagination.nextPageLink | url }}">Older Notes&nbsp;&rarr; </a>
+{% endif %}
+
+<div>
+</nav>
+
+</section>
+  </article>
+
+
+
+
+
+
+
+
+

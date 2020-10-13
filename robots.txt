@@ -1,0 +1,8 @@
+---
+permalink: /robots.txt
+layout: null
+---
+Sitemap: https://example.com/sitemap.xml
+
+User-agent: *
+Disallow:

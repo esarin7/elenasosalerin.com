@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+<title>{{ title }}</title>
+ {% include "layouts/page-head.njk" %}
+</head>
+
+<body>
+  {% include "layouts/nav.njk" %}
+  {% include "layouts/hero-headlines.njk" %}
+
+
+    {{ content | safe }}
+
+
+  
+  {% include "layouts/footer.njk" %}
+  {% include "layouts/footer-scripts.njk" %}
+</body>
+
+</html>
