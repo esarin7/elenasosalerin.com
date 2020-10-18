@@ -85,4 +85,10 @@
             <changefreq></changefreq>
         </url>
     
+        <url>
+            <loc>/posts/2020/an-example-to-delete/</loc>
+            <lastmod>2020-10-17T15:03:05.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
 </urlset>
