@@ -1,8 +1,8 @@
 {
     "lang": "en",
     "dir": "ltr",
-    "name":"",
-    "short_name":"",
+    "name":"Elena Sosa Lerín",
+    "short_name":"e_sarin",
     "icons":[
         {
             "src":"/favicon/android-chrome-192x192.png",
@@ -17,8 +17,8 @@
                 }
 
             ],
-            "theme_color":"#fed364",
-            "background_color":"#fed364",
+            "theme_color":"#4C4C4C",
+            "background_color":"#4C4C4C",
             "start_url": "/index.html",
             "display":"standalone",
             "orientation": "natural"
