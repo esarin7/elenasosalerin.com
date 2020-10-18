@@ -1,12 +1,12 @@
 {
-    "title": "Your Blog Name",
-    "url": "https://example.com/",
-    "description": "I am writing about my experiences as a naval navel-gazer.",
+    "title": "Elena Sosa Lerín",
+    "url": "https://www.elenasosalerin.com/",
+    "description": "A curious and creative international communications specialist who writes, takes photos, and codes.",
     "feed": {
-      "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+      "subtitle": "Communications strategy, social media, content development.",
       "filename": "feed.xml",
       "path": "/feed/feed.xml",
-      "id": "https://example.com/"
+      "id": "https://wwww.elenasosalerin.com/"
     },
     "jsonfeed": {
       "path": "/feed/feed.json",
@@ -15,7 +15,7 @@
     "author": {
       "name": "Elena Sosa Lerín",
       "email": "elenasosalerin@gmail.com",
-      "url": "https://example.com/about-me/"
+      "url": "https://www.elenasosalerin.com/about/"
     }
   }
   
