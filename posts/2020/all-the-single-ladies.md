@@ -1,10 +1,12 @@
 ---
 title: A weird liberation - why women are exposing the wild truth about midlife and menopause
 date: 2020-09-22 19:10:41
-description: You shouldn't care what others thinks of you or your work.
+description: This is all dummy test, because I dislike lorem ipsum. Website still under construction.
 author: 'Elena Sosa Lerín'
 ---
-One of the most memorable monologues of the cult BBC drama, Fleabag, states that menopause is the “most wonderful fucking thing in the world. 
+This is all dummy text, partially taken from an article in The Guardian. It's better than reading non-sensical Latin that gives you no idea on how things look and feel on your site while you're building it.
+
+One of the most memorable monologues of the cult BBC drama, Fleabag, states that menopause is the “most wonderful fucking thing in the world." 
 
 <figure>
 <img data-src="/img/portfolio-mexico-city-2014.jpg" loading="lazy" alt="The front of a store that sells brooms, buckets and other cleaning household items." class="lazyload">
