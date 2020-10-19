@@ -1,7 +1,7 @@
 ---
-title: A weird liberation - why women are exposing the wild truth about midlife and menopause
+title: Some Words to Act as Place HOlders
 date: 2020-09-22 19:10:41
-description: This is all dummy test, because I dislike lorem ipsum. Website still under construction.
+description: This is all dummy test, because I dislike lorem ipsum. Working on finetuning some details to finally have this site done.
 author: 'Elena Sosa Lerín'
 ---
 This is all dummy text, partially taken from an article in The Guardian. It's better than reading non-sensical Latin that gives you no idea on how things look and feel on your site while you're building it.
