@@ -1,5 +1,5 @@
 ---
-title: Some Words to Act as Place HOlders
+title: Some Words to Act as Place Holders
 date: 2020-09-22 19:10:41
 description: This is all dummy test, because I dislike lorem ipsum. Working on finetuning some details to finally have this site done.
 author: 'Elena Sosa Lerín'
