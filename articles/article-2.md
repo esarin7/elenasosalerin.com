@@ -1,5 +1,5 @@
 ---
-title: The Doctors from Wau to Radio Miraya
+title: Performing Surgical Procedures in Challenging Contexts
 description: for the United Nations Development Programme (UNDP) in South Sudan. (May 2016)
 author: 'Elena Sosa Lerín'
 ---
