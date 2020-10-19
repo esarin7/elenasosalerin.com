@@ -72,7 +72,7 @@ The top leaders are:
 <li>Lady Beyond It all</li>
 <br>
 
-In Okotoks <a href="https://www.atlasobscura.com/places/big-rock-erratic" target="blank"> you can find this</a>. And it's marvelous.
+ Dancing. Because, why not?
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/so4dgTRaWFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
