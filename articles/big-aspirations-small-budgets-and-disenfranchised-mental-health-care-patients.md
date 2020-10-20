@@ -13,13 +13,13 @@ author: 'Elena Sosa Lerín'
 </figcaption>
 </figure>
 
-According to the World Health Organization (WHO), mental health issues are already the fourth leading cause of the global health burden, representing a third of all years of healthy life lost to disability among adults.
+The World Health Organization (WHO) reports mental health issues are already the fourth leading cause of the global health burden, representing a third of all years of healthy life lost to disability among adults.
 
 By 2020, they will rank second, behind heart disease.
 
-Regional WHO studies show that mental health issues such as epilepsy, depression, psychosis, substance abuse, and other psychotic disorders are among the top ten causes of disability in Africa.
+WHO studies indicate that in Africa, mental health issues such as epilepsy, depression, psychosis, substance abuse, and other psychotic disorders are among the top ten causes of disability.
 
-But in Malawi, one of the world's poorest countries, where health policies and development goals are primarily centred on the prevention of HIV and AIDS, the reduction of maternal mortality, tuberculosis, and malaria, mental healthcare is - at best - an afterthought.
+But in Malawi, where health policies and development goals are primarily centred on the prevention of HIV and AIDS, the reduction of maternal mortality, tuberculosis, and malaria, mental healthcare is - at best - an afterthought.
 
 Case in point, the Ministry of Health has no reliable data on the nature and the extent of those suffering mental disorders.
 
@@ -59,10 +59,9 @@ For instance, QECH has just one psychiatrist and 18 nurses to attend an average 
 
 Two years ago, Dr. Rob Stewart, the head of the psychiatric unit at QECH, decided to shut down patients' admissions because the rooms lacked windows and toilets.
 
-One of the nurses from QECH, when asked what improvements she'd like to see in the mental healthcare system, said having a computer would make a big difference, as patients' records are still handwritten and usually get lost or mixed with other papers.
+One of the nurses from QECH, when asked what improvements she'd like to see in the mental health care system, said having a computer would make a big difference, as patients' records are still handwritten and usually get lost or mixed with other papers.
 
 "The only piece of technology we have here is a telephone," she says. 
-<hr>
 
 *A <a href="https://thestar.blogs.com/africa/2011/09/big-aspirations-small-budgets-and-disenfranchised-mental-patients.html" target="blank">version of this story</a> was originally published on September 2011 in The Toronto Star's 'Africa without Maps' blog.*
 
