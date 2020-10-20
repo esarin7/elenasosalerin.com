@@ -1,6 +1,7 @@
 ---
 title: 'Dispatches from the IGAD Regional Initiative: Training Midwives for Safe Pregnancies in Terekeka, South Sudan'
 description: for the United Nations Development Programme (UNDP) in South Sudan. (September 2016)
+date: 2016-09-06 22:23:33
 author: 'Elena Sosa Lerín'
 ---
 
@@ -68,6 +69,8 @@ Despite these challenges, the twins, mostly senior women, feel proud of what the
 All of them express a desire to learn more techniques and better care practices, which is often limited due to a lack of medical resources.
 
 "We do the best that we can with what we have," says Dr. Fredrick, "and we don't give up."
+
+*A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/06/dispatches-from-the-igad-regional-initiative-training-midwives-for-safe-pregnancies-in-terekeka-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
 
 
 
