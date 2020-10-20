@@ -11,7 +11,7 @@ Dr. Kakande explained during an interview with Lukan David, Radio Miraya's host,
 "But at this point," a proud Dr. Kakande declared, "I'm their surgical assistant."
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158578/IMG_0177_di27b6.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158662/edited-0187_kp93bv.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Initiative.</p>
 </figcaption>
