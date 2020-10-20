@@ -11,7 +11,7 @@ Dr. Kakande explained during an interview to Lukan David, Radio Miraya’s host 
 “But at this point,” a proud Dr. Kakande declared, “I’m their surgical assistant.”
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603155563/flowers.jpg" loading="lazy" alt="Pink flowers" class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,g_auto,h_416,q_auto:good,w_554/v1603155563/flowers.jpg" loading="lazy" alt="Pink flowers" class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Pink flowers in a local garden.</p>
 </figcaption>
