@@ -7,9 +7,9 @@ author: 'Elena Sosa Lerín'
 *By Elena Sosa Lerin and Lucas Bottoman*
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,h_560,q_auto/v1603218279/malawi-mental-health-care_j7yxph.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_scale,h_400,q_auto:good/v1603218279/malawi-mental-health-care_j7yxph.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Epilepsy, depression, schizophrenia and                   bipolar disorders are some of the top mental health issues in Malawi./Blantyre News Limited</p>
+    <p><span class="thick">Photo:</span> Epilepsy, depression, schizophrenia and                   bipolar disorders are some of the top mental health issues in Malawi/Courtesy of Blantyre News Limited</p>
 </figcaption>
 </figure>
 
