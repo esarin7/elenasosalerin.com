@@ -13,7 +13,7 @@ Dr. Kakande explained during an interview with Lukan David, Radio Miraya's host,
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158578/IMG_0177_di27b6.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Regional Initiative.</p>
+    <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Initiative.</p>
 </figcaption>
 </figure>
 
