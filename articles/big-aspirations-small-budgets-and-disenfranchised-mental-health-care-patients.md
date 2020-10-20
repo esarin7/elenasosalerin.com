@@ -1,5 +1,5 @@
 ---
-title: 'Big aspirations, small budgets - and disenfranchised mental health care patients'
+title: Big aspirations, small budgets - and disenfranchised mental health care patients
 date: 2011-09-21 07:33:07
 description: 'for The Toronto Star's *Africa without Maps* blog' (September 2011).
 author: 'Elena Sosa Lerín'
