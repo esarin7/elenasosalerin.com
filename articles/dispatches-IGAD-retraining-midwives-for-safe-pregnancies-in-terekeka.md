@@ -1,5 +1,5 @@
 ---
-title: Dispatches from the IGAD Regional Initiative: Training Midwives for Safe Pregnancies in Terekeka
+title: 'Dispatches from the IGAD Regional Initiative: Training Midwives for Safe Pregnancies in Terekeka'
 description: for the United Nations Development Programme (UNDP) in South Sudan. (September 2016)
 author: 'Elena Sosa Lerín'
 ---
