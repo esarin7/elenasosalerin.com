@@ -20,7 +20,7 @@ But when word got around that he was training local midwives and nurses and supp
 Today, the health centre receives an average of 30 women per day.
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1603165635/articles/Odukis_Terekeka_image_wvgygt.jpg" loading="lazy" alt="South Sudanese women sitting on a bench wait for their turn to see the nurse-midwife." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,h_460,q_auto/v1603165635/articles/Odukis_Terekeka_image_wvgygt.jpg" loading="lazy" alt="South Sudanese women sitting on a bench wait for their turn to see the nurse-midwife." class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Mr. Odukis checks the blood pressure of a patient.</p>
 </figcaption>
