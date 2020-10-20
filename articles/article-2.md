@@ -10,6 +10,16 @@ Dr. Kakande explained during an interview to Lukan David, Radio Miraya’s host 
 
 “But at this point,” a proud Dr. Kakande declared, “I’m their surgical assistant.”
 
+<figure>
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603155563/flowers.jpg" loading="lazy" alt="Pink flowers" class="lazyload">
+<figcaption>
+    <p><span class="thick">Photo:</span> Pink flowers in a local garden.</p>
+</figcaption>
+</figure>
+
+
+
+
 During the interview, Dr. Kakande shared his first impressions upon arrival to the hospital. He thought surgeries were impossible due to the deteriorating conditions of the facilities and the regular lack of medical supplies.
 
 But he found motivation in the eagerness and willingness of his colleagues to learn as much as possible given the difficult circumstances.
