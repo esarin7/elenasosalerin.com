@@ -39,7 +39,7 @@ When asked about the most significant hurdles they face in their work, Mr. Matui
 
 "We have to improvise a lot because we have very basic conditions," said Dr. Kakande. "We've been able to do many complex surgeries with very basic facilities."
 
-Alexander Paulino's case serves as an example of their efforts. Speaking enthusiastically in Arabic during the interview, he explained how he was about to lose his life due to severe gangrene in his right leg - a consequence of years of smoking.
+Alexander Paulino's case serves as an example of their efforts. Speaking enthusiastically in Arabic during the interview, he explained how he was about to lose his life due to severe gangrene in his right leg.
 
 The surgeons saved his life by amputating it. There was no other option. Paulino also talked about how they assisted him in his physical rehabilitation, which helped him get back on track and continue his life.
 
