@@ -13,7 +13,7 @@ Dr. Kakande explained during an interview with Lukan David, Radio Miraya's host,
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158578/IMG_0177_di27b6.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span>Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Regional Initiative.</p>
+    <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Regional Initiative.</p>
 </figcaption>
 </figure>
 
@@ -25,11 +25,11 @@ But he found motivation in his colleagues' eagerness and willingness to learn as
 
 Both Mr. Matuiery and Mr. Anthony, who is the acting medical director of the Wau Teaching Hospital, can benefit from Dr. Kakande's expertise thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a capacity development initiative from the Intergovernmental Authority on Development (IGAD), an eight-country trade block in eastern Africa.
 
-The objective of the IGAD Initiative is to strengthen the capacity of the South Sudanese civil service at a national and provincial level. Seasoned civil servants from these three East African countries – known as civil service support officers (CSSOs) – are seconded to South Sudan and paired with a South Sudanese counterpart, usually referred to as a "twin."
+The objective of the <a href="https://www.ss.undp.org/content/south_sudan/en/home/library/UNDP-South-Sudan-at-a-glance/UNDP_South_Sudan_at-a-glance-IGAD.html" target="blank"> IGAD Initiative</a> is to strengthen the capacity of the South Sudanese civil service at a national and provincial level. Seasoned civil servants from these three East African countries – known as civil service support officers (CSSOs) – are seconded to South Sudan and paired with a South Sudanese counterpart, usually referred to as a "twin."
 
 The relationship is one of mentoring, coaching and close collaboration.
 
-Since 2011, more than a hundred CSSOs, working mostly on two-year contracts, have come to South Sudan to support capacity efforts in different sectors like agriculture, aviation, finance, and public health. Their salaries are covered by their own countries while other expenses are paid by Norway's government, the project's only donor. The United Nations Development Program (UNDP) is responsible for the coordination and implementation of this initiative.
+Since 2011, more than a hundred CSSOs, working mostly on two-year contracts, have come to South Sudan to support capacity efforts in different sectors like agriculture, aviation, finance, and public health. Their salaries are covered by their own countries while other expenses are paid by Norway's government, the project's only donor. The United Nations Development Programme (UNDP) is responsible for the coordination and implementation of this initiative.
 
 Working conditions in South Sudan are challenging. As the three physicians explained throughout the interview, they are keenly aware that people in great need and even greater pain desperately need them.
 
@@ -42,6 +42,13 @@ When asked about the most significant hurdles they face in their work, Mr. Matui
 Alexander Paulino's case serves as an example of their efforts. Speaking enthusiastically in Arabic during the interview, he explained how he was about to lose his life due to severe gangrene in his right leg.
 
 The surgeons saved his life by amputating it. There was no other option. Paulino also talked about how they assisted him in his physical rehabilitation, which helped him get back on track and continue his life.
+
+<figure>
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158634/edited-0182_ovzeqz.jpg" loading="lazy" alt="Close shot of the faces of the interviewees." class="lazyload">
+<figcaption>
+    <p><span class="thick">Photo:</span> Alexander Paulino (left) and Mabor Matuiery share their experiences about navigating South Sudan’s challenging public health sector.</p>
+</figcaption>
+</figure>
 
 The three doctors agree that there's talent and skill and eagerness in South Sudan when studying and practicing medicine.
 
