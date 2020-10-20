@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 *By Elena Sosa Lerin and Lucas Bottoman*
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_scale,h_600,q_auto/v1603222831/malawi-mental-health-care_ogyr50.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_mpad,h_600,q_auto:good/v1603222831/malawi-mental-health-care_ogyr50.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Epilepsy, depression, schizophrenia and                   bipolar disorders are some of the top mental health issues in Malawi/Courtesy of Blantyre News Limited</p>
 </figcaption>
@@ -25,7 +25,7 @@ Case in point, the Ministry of Health has no reliable data on the nature and the
 
 Its National Mental Health Policy Plan admits that it has had to rely on studies done in neighbouring countries in the absence of national research on mental health patients.
 
-Based on these studies, health officials estimate that at least 10 percent of Malawi's 15 million people are affected by a mental health issue, meaning that mental health disorders are as common as infectious diseases.
+Based on these studies, health officials estimate that at least ten percent of Malawi's 15 million people are affected by a mental health issue, meaning that mental health disorders are as common as infectious diseases.
 
 And yet, given these dire statistics, the Ministry of Health's Strategic Plan for 2011-2016 recognizes that the government's budget for the health sector is "inadequate."
 
@@ -62,6 +62,7 @@ Two years ago, Dr. Rob Stewart, the head of the psychiatric unit at QECH, decide
 One of the nurses from QECH, when asked what improvements she'd like to see in the mental healthcare system, said having a computer would make a big difference, as patients' records are still handwritten and usually get lost or mixed with other papers.
 
 "The only piece of technology we have here is a telephone," she says. 
+<hr>
 
 *A <a href="https://thestar.blogs.com/africa/2011/09/big-aspirations-small-budgets-and-disenfranchised-mental-patients.html" target="blank">version of this story</a> was originally published on September 2011 in The Toronto Star's 'Africa without Maps' blog.*
 
