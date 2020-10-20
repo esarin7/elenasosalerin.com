@@ -22,7 +22,7 @@ Today, the health centre receives an average of 30 women per day.
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1603165635/articles/Odukis_Terekeka_image_wvgygt.jpg" loading="lazy" alt="South Sudanese women sitting on a bench wait for their turn to see the nurse-midwife." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Mr. Odukis checks the blood pressure of a pregnant woman.</p>
+    <p><span class="thick">Photo:</span> Mr. Odukis checks the blood pressure of a patient.</p>
 </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ midwives can help prevent two-thirds of all maternal deaths</a>. They also expla
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603165638/articles/Odukis_Terekeka_maternalrates_graphic_lxe4hr.png" loading="lazy" alt="Chart showing the countries with the lowest and highest maternal mortality rates in the world." class="lazyload">
 <figcaption>
-    <p><span class="thick">Source:</span> Global Health Repository database 2015, with statistics from WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division.<br> The maternal mortality rate [MMR] is the annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes). The MMR includes deaths during pregnancy, childbirth, or within 42 days of termination of pregnancy, irrespective of the duration and the site of the pregnancy, for a specified year.
+    <p><span class="thick">Source:</span> Global Health Repository database 2015, with statistics from WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division.<br><span class="thick">Definition:</span>  The maternal mortality rate [MMR] is the annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes). The MMR includes deaths during pregnancy, childbirth, or within 42 days of termination of pregnancy, irrespective of the duration and the site of the pregnancy, for a specified year.
     </p>
 </figcaption>
 </figure>
