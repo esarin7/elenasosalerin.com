@@ -616,6 +616,7 @@ figure img {
 figcaption {
   font-size: 14px;
   font-style: italic;
+  width: fit-content;
 }
 
 /* For the captions in articles and posts */
