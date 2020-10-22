@@ -74,6 +74,8 @@ Since 2011, over three hundred CSSOs, working on two-year contracts, have come t
 
 *A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank"> version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
 
+Is this writing stuff anymore?
+
 
 
 
