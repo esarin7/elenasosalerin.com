@@ -9,7 +9,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_mpad,h_600,q_auto:good/v1603222831/malawi-mental-health-care_ogyr50.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Epilepsy, depression, schizophrenia and                   bipolar disorders are some of the top mental health issues in Malawi/Courtesy of Blantyre News Limited</p>
+    <p>Epilepsy, depression, schizophrenia and bipolar disorders are some of the top mental health issues in Malawi. <span class="thick">Photo:</span> Courtesy of Blantyre News Limited</p>
 </figcaption>
 </figure>
 

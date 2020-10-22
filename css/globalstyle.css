@@ -617,7 +617,7 @@ figcaption {
   font-size: 14px;
   font-style: italic;
 }
-
+/* For the captions in articles and posts*/
 .single-post figcaption p {
   font-size: 14px;
 }
