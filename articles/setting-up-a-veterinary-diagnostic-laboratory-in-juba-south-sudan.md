@@ -26,8 +26,6 @@ The Food and Agriculture Administration (FAO) reports that South Sudan, a countr
 
 At least 80 percent of the country's population relies just on cattle to some extent, FAO estimates.
 
-FAO estimates that at least 80 percent of the country's population relies just on cattle to some extent.
-
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603325690/articles/FAO_cattle_uutbny.jpg" loading="lazy" alt="A Cebu cattle herd roaming around a dirt field." class="lazyload">
 <figcaption>
@@ -48,12 +46,15 @@ On the other hand, a <a href="http://www.fao.org/fileadmin/user_upload/emergenci
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603329037/articles/infographic_animaldisease__moiw9z.png" loading="lazy" alt="Infographic on cattle diseases." class="lazyload">
 </figure>
+<br>
 
 #### Training South Sudan's future veterinary lab technicians
 
 Since late 2015, Ms. Kenduiywo and Ms. Matole have intensely worked with their four South Sudanese young male counterparts, known as "twins," on essential biosafety and hygienic guidelines and protocols, which were practically non-existent before the pair's arrival.
 
-The laboratory has operated without electricity since July 2015 due to the smouldering of the central cable that powered the lab. To preserve animal samples, they're taken to a nearby veterinary research lab supported by FAO, which has freezers run by a generator. Although Mrs. Kenduiywo and Ms. Matole managed to fix one microscope, there's lab equipment that needs to be repaired and maintained by biomedical engineers – the type of technical capacity missing in the country's animal health sector.
+The laboratory has operated without electricity since July 2015 due to the smouldering of the central cable that powered the lab. To preserve animal samples, they're taken to a nearby veterinary research lab supported by FAO, which has freezers run by a generator. 
+
+Although Mrs. Kenduiywo and Ms. Matole managed to fix one microscope, there's lab equipment that needs to be repaired and maintained by biomedical engineers – the type of technical capacity missing in the country's animal health sector.
 
 The lab doesn't have a safe waste disposal system. Since there aren't incinerators, the lab's trash is burned in a nearby field, which, as Ms. Kenduiywo explains, is a potential health hazard for the people living nearby. It's suspected that this waste burning is what damaged the lab's main power cable.
 
@@ -71,7 +72,7 @@ Their relationship is one of mentoring, coaching, and close collaboration.
 
 Since 2011, over three hundred CSSOs, working on two-year contracts, have come to South Sudan to support capacity-building efforts in sectors like agriculture, aviation, finance, and public health. Their own countries cover their salaries while other expenses are paid for by the government of Norway, the project's sole donor. The United Nations Development Programme (UNDP) is responsible for the coordination and implementation of this initiative. 
 
-*A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
+*A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank">version of this story</a> was originally published on May 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
 
 
 
