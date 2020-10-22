@@ -40,7 +40,7 @@ As a matter of fact, Kunyenje has limited control over the creation of his carto
 
 "Editors in Malawi don't have a good idea of what a cartoon can do," he explains.
 
-At this point, Kunyenje's stutter takes over his speech. He stops talking, reaches for his briefcase and pulls out a folder. He starts flicking through dozens of carefully catalogued cartoon clippings from different national and international newspapers and magazines he has collected throughout the years and soon finds what he wats.
+At this point, Kunyenje's stutter takes over his speech. He stops talking, reaches for his briefcase and pulls out a folder. He starts flicking through dozens of carefully catalogued cartoon clippings from different national and international newspapers and magazines he has collected throughout the years and soon finds what he wants.
 
 "This. This is what we don't have in Malawi." Kunyenje holds a small, aged clipping dated Feb. 16, 1989. It shows a fat vulture wearing a headscarf, about to prey on an emaciated bear lying on the ground. It is the editorial take by world-renowned Israeli cartoonist <a href="https://en.wikipedia.org/wiki/Ranan_Lurie" target="blank">Ranan Lurie</a> on the end of the Soviet occupation in Afghanistan. 
 
