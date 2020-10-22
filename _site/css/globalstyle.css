@@ -508,7 +508,7 @@ footer .item.text p {
 
 .copyright {
   font-family: "Domine", serif;
-  color: #5f7682;
+  color: #fefae7;
   font-size: 12px;
 }
 
@@ -617,6 +617,12 @@ figcaption {
   font-size: 14px;
   font-style: italic;
 }
+
+/* For the captions in articles and posts */
+.posts figcaption {
+  font-size: 14px;
+}
+
 
 /* /* * * * * * * * * * * * * * * * * * * * *
            Contact Page

@@ -619,6 +619,7 @@ figcaption {
   font-style: italic;
 }
 
+/* For the captions in articles and posts */
 .posts figcaption {
   font-size: 14px;
 }
