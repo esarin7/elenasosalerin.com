@@ -612,17 +612,13 @@ figure img {
   height: 100%;
 }
 
-/* For the captions in ABOUT THIS SITE and PRIVACY */
+/* For the captions in ABOUT THIS SITE and PRIVACY, POSTS AND ARTICLES */
 figcaption {
   font-size: 14px;
   font-style: italic;
-  width: fit-content;
+  width: 100%;
 }
 
-/* For the captions in articles and posts */
-.content-post figcaption p {
-  font-size: 14px;
-}
 
 
 /* /* * * * * * * * * * * * * * * * * * * * *
