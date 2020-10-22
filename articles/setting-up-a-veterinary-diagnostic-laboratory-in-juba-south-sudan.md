@@ -11,15 +11,14 @@ author: 'Elena Sosa Lerín'
 </figcaption>
 </figure>
 
-<figure>
-<img data-src="/img/pug-working-on-laptop.jpg" loading="lazy" alt="A pug is seemingly working on a laptop." class="lazyload">
-<figcaption>
-<p><span class="thick">Photo:</span> Image concept based on <a href="https://burst.shopify.com/photos/business-pug-working-on-laptop?c=computer" target="blank">a photo</a> by Matthew Henry from Burst. This good boy has been working very hard on this site and would get rewareded accordingly very soon.</p>
-</figcaption>
-</figure>
-
-
 Teresia Chepkosgei Kenduiywo and Alice Alego Matole, Kenyan veterinary laboratory technologists with two decades of technical experience, arrived at Juba's Central Veterinary Diagnostic Laboratory in October 2015, ready to mentor their South Sudanese peers on accurate animal disease diagnosis and effective laboratory management.
+
+<figure>
+      <img data-src="/img/puppy-covering-face.jpg" loading="lazy" alt="A sleepy puppy covers its face." class="lazyload">
+      <figcaption>
+        <p><span class="thick">Photo:</span> Image concept based on <a href="https://kaboompics.com/photo/17700/sleepy-cute-dog" target="blank">a photo</a> by Karolina Grabowska from Kaboom Pics.</p>
+      </figcaption>
+    </figure>
 
 Upon their arrival, both women were surprised to learn that the lab lacked something as essential as a microscope.
 
