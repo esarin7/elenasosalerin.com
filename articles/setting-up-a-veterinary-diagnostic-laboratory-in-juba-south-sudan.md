@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto,w_500/v1603325519/articles/01_VetLab_edit-001_mlbp17.jpg" loading="lazy" alt="Group photo in a science lab." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Kenyan veterinary laboratory technologists, Ms. Teresia Chepkosgei Kenduiywo and Ms. Alice Alego Matole, stand with their South Sudanese “twins” whom they’ve been mentoring for the past year. Everyone works hard, under challenging circumstances to establish an efficient laboratory that can diagnose animal diseases and improve animal health in South Sudan. Photo: Courtesy of Ms. Alice Alego Matole</p>
+    <p>Kenyan veterinary laboratory technologists, Ms. Teresia Chepkosgei Kenduiywo and Ms. Alice Alego Matole, stand with their South Sudanese “twins” whom they’ve been mentoring for the past year. Everyone works hard, under challenging circumstances to establish an efficient laboratory that can diagnose animal diseases and improve animal health in South Sudan.<span class="thick">Photo:</span> Courtesy of Ms. Alice Alego Matole</p>
 </figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ FAO estimates that at least 80 percent of the country's population relies just o
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603325690/articles/FAO_cattle_uutbny.jpg" loading="lazy" alt="A Cebu cattle herd roaming around a dirt field." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> FAO calculates there are 11.7 million cattle, 12.4 million goats, and 12.1 million sheep in South Sudan. However, endemic diseases like peste des petits ruminants or east coast fever, undermine livestock production, threatening the livelihoods of South Sudan’s population. Local and national capacity to control diagnose and control these diseases is severely limited. <br> FAO / A. Konevski</p>
+<p>Endemic diseases like peste des petits ruminants or east coast fever, undermine livestock production, threatening the livelihoods of South Sudan’s population. Local and national capacity to control diagnose and control these diseases is severely limited.<span class="thick">Photo:</span> FAO/A. Konevski</p>
 </figcaption>
 </figure>
 
