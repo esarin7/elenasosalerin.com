@@ -63,7 +63,7 @@ One of the nurses from QECH, when asked what improvements she'd like to see in t
 
 "The only piece of technology we have here is a telephone," she says. 
 
-&#9658; *A <a href="https://thestar.blogs.com/africa/2011/09/big-aspirations-small-budgets-and-disenfranchised-mental-patients.html" target="blank">version of this story</a> was originally published on September 2011 in The Toronto Star's 'Africa without Maps' blog.*
+<span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span> <em>A <a href="https://thestar.blogs.com/africa/2011/09/big-aspirations-small-budgets-and-disenfranchised-mental-patients.html" target="blank">version of this story</a> was originally published on September 2011 in The Toronto Star's 'Africa without Maps' blog.</em>
 
 
 

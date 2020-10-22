@@ -3,6 +3,10 @@ title: Writing | Elena Sosa Lerín
 layout: layouts/basic-plus.njk
 about: Selected Writing
 description: Samples of my work in journalism & communications.
+pagination:
+  data: collections.articles
+  reverse: true
+  alias: articles
 ---
 {% for post in collections.articles %}
 <main id="main">

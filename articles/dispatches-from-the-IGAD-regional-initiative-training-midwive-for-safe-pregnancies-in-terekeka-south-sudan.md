@@ -4,7 +4,6 @@ description: for the United Nations Development Programme (UNDP) in South Sudan.
 date: 2016-09-06 22:23:33
 author: 'Elena Sosa Lerín'
 ---
-
 Mr. Silvanus Odukis, a qualified Kenyan nurse-midwife with over 30 years of maternal care experience, knows the inherent challenges of giving birth in South Sudan, <a href="https://www.indexmundi.com/g/r.aspx?v=2223" target="blank">one of the world's deadliest countries</a> to give birth.
 
 The last <a href="http://www.southsudanmedicaljournal.com/research/southern-sudan-household-survey.html">
@@ -71,6 +70,8 @@ All of them express a desire to learn more techniques and better care practices,
 "We do the best that we can with what we have," says Dr. Fredrick, "and we don't give up."
 
 <span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span> <em>A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/06/dispatches-from-the-igad-regional-initiative-training-midwives-for-safe-pregnancies-in-terekeka-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.</em>
+
+dispatches-from-the-IGAD-regional-initiative-training-midwive-for-safe-pregnancies-in-terekeka-south-sudan
 
 
 
