@@ -14,7 +14,7 @@ author: 'Elena Sosa Lerín'
 <figure>
       <img data-src="/img/pug-working-on-laptop.jpg" loading="lazy" alt="A pug is seemingly working on a laptop." class="lazyload">
       <figcaption>
-        <p><span class="thick">Photo:</span> Image concept based on <a href="https://burst.shopify.com/photos/business-pug-working-on-laptop?c=computer" target="blank">a photo</a> by Matthew Henry from Burst.</p>
+        <p><span class="thick">Photo:</span> Image concept based on <a href="https://burst.shopify.com/photos/business-pug-working-on-laptop?c=computer" target="blank">a photo</a> by Matthew Henry from Burst. This good boy has been working very hard on this site and would get rewareded accordingly very soon.</p>
       </figcaption>
     </figure>
 
