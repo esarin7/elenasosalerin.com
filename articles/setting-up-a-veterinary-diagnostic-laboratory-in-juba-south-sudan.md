@@ -12,11 +12,11 @@ author: 'Elena Sosa Lerín'
 </figure>
 
 <figure>
-      <img data-src="/img/pug-working-on-laptop.jpg" loading="lazy" alt="A pug is seemingly working on a laptop." class="lazyload">
-      <figcaption>
-        <p><span class="thick">Photo:</span> Image concept based on <a href="https://burst.shopify.com/photos/business-pug-working-on-laptop?c=computer" target="blank">a photo</a> by Matthew Henry from Burst. This good boy has been working very hard on this site and would get rewareded accordingly very soon.</p>
-      </figcaption>
-    </figure>
+<img data-src="/img/pug-working-on-laptop.jpg" loading="lazy" alt="A pug is seemingly working on a laptop." class="lazyload">
+<figcaption>
+<p><span class="thick">Photo:</span> Image concept based on <a href="https://burst.shopify.com/photos/business-pug-working-on-laptop?c=computer" target="blank">a photo</a> by Matthew Henry from Burst. This good boy has been working very hard on this site and would get rewareded accordingly very soon.</p>
+</figcaption>
+</figure>
 
 
 Teresia Chepkosgei Kenduiywo and Alice Alego Matole, Kenyan veterinary laboratory technologists with two decades of technical experience, arrived at Juba's Central Veterinary Diagnostic Laboratory in October 2015, ready to mentor their South Sudanese peers on accurate animal disease diagnosis and effective laboratory management.
@@ -80,7 +80,7 @@ Their relationship is one of mentoring, coaching, and close collaboration.
 
 Since 2011, over three hundred CSSOs, working on two-year contracts, have come to South Sudan to support capacity-building efforts in sectors like agriculture, aviation, finance, and public health. Their own countries cover their salaries while other expenses are paid for by the government of Norway, the project's sole donor. The United Nations Development Programme (UNDP) is responsible for the coordination and implementation of this initiative.
 
-*A* *<a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
+*A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
 
 
 
