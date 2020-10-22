@@ -158,6 +158,11 @@ figcaption a:hover {
   display: inline-block;
 }
 
+.right-triangle{
+  color: #5e7dbb;
+  display: inline-block;
+}
+
 /* STYLING OF LISTS */
 
 /* By Triangle */
