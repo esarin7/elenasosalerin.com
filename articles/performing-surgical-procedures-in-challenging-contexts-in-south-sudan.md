@@ -44,7 +44,7 @@ Alexander Paulino's case serves as an example of their efforts. Speaking enthusi
 The surgeons saved his life by amputating it. There was no other option. Paulino also talked about how they assisted him in his physical rehabilitation, which helped him get back on track and continue his life.
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158634/edited-0182_ovzeqz.jpg" loading="lazy" alt="Close shot of the faces of the interviewees." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto,w_600,y_0/v1603158634/articles/edited-0182_ovzeqz.jpg" loading="lazy" alt="Close shot of the faces of the interviewees." class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Alexander Paulino (left) and Mabor Matuiery share their experiences about navigating South Sudan’s challenging public health sector.</p>
 </figcaption>
