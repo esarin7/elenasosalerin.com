@@ -619,7 +619,7 @@ figcaption {
 }
 
 /* For the captions in articles and posts */
-.single-post figcaption {
+.content-post figcaption {
   font-size: 14px;
 }
 
