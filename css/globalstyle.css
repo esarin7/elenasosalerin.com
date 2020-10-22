@@ -618,7 +618,7 @@ figcaption {
   font-style: italic;
 }
 
-.single-post figcaption {
+.single-post figcaption p {
   font-size: 14px;
 }
 
