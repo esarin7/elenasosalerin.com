@@ -612,8 +612,8 @@ figure img {
   height: 100%;
 }
 
-/* For the captions in ABOUT THIS SITE, PRIVACY , POSTS AND ARTICLES*/
-figcaption {
+/* For the captions in ABOUT THIS SITE, PRIVACY*/
+figcaption p {
   font-size: 14px;
   font-style: italic;
 }

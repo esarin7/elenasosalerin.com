@@ -13,12 +13,6 @@ author: 'Elena Sosa Lerín'
 
 Teresia Chepkosgei Kenduiywo and Alice Alego Matole, Kenyan veterinary laboratory technologists with two decades of technical experience, arrived at Juba's Central Veterinary Diagnostic Laboratory in October 2015, ready to mentor their South Sudanese peers on accurate animal disease diagnosis and effective laboratory management.
 
-<figure>
-      <img data-src="/img/puppy-covering-face.jpg" loading="lazy" alt="A sleepy puppy covers its face." class="lazyload">
-      <figcaption>
-        <p><span class="thick">Photo:</span> Image concept based on <a href="https://kaboompics.com/photo/17700/sleepy-cute-dog" target="blank">a photo</a> by Karolina Grabowska from Kaboom Pics.</p>
-      </figcaption>
-    </figure>
 
 Upon their arrival, both women were surprised to learn that the lab lacked something as essential as a microscope.
 
