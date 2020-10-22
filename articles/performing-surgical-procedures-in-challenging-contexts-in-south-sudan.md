@@ -60,5 +60,7 @@ The three surgeons know that they could save a lot of lives with the right equip
 
 "I'm very happy with my twins," says Dr. Kakande. "They can do all sorts of procedures, and they're good at it. They can stand on their own, even when I'm not there. That's what matters."
 
-&#9658; *A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/stories/the-doctors-from-wau.html" target="blank">version of this story</a> was originally published on May 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
+
+
+<span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span> <em>A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/stories/the-doctors-from-wau.html" target="blank">version of this story</a> was originally published on May 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.</em>
 

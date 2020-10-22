@@ -30,7 +30,7 @@ One of the main challenges for pregnant women and girls as well as health practi
 
 Many of the women attending the health centre in Terekeka live as far as 25 kilometres away. They walk for hours on dirt roads under the scorching sun because, as Dr. Fredrick explains, the women feel the antenatal care they receive makes a positive difference in their pregnancies.
 
-Mr. Odukis' work in Terekeka is possible thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a capacity development initiative by the Intergovernmental Authority on Development (IGAD), an eight-country regional development block in eastern Africa, as well as the government of South Sudan.
+Mr. Odukis' work in Terekeka is possible thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a <a href="https://www.ss.undp.org/content/south_sudan/en/home/projects/support-to-public-administration.html>" target="blank"> capacity development initiative</a> by the Intergovernmental Authority on Development (IGAD), an eight-country regional development block in eastern Africa, as well as the government of South Sudan.
 
 This initiative aims to strengthen the capacity of the South Sudanese civil service at a national and sub-national level. It accomplishes this by lending out seasoned civil servants from these three IGAD countries – known as Civil Service Support Officers (CSSOs) – and pairing them up with South Sudanese counterparts, usually referred to as "twins."
 
@@ -70,7 +70,7 @@ All of them express a desire to learn more techniques and better care practices,
 
 "We do the best that we can with what we have," says Dr. Fredrick, "and we don't give up."
 
-&#9658; *A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/06/dispatches-from-the-igad-regional-initiative-training-midwives-for-safe-pregnancies-in-terekeka-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.*
+<span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span> <em>A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/06/dispatches-from-the-igad-regional-initiative-training-midwives-for-safe-pregnancies-in-terekeka-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.</em>
 
 
 
