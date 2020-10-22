@@ -614,7 +614,7 @@ figure img {
 }
 
 /* For the captions in ABOUT THIS SITE, PRIVACY , POSTS AND ARTICLES*/
-figcaption {
+figcaption p {
   font-size: 14px;
   font-style: italic;
 }
