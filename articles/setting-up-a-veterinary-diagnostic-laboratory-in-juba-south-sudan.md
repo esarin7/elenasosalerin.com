@@ -6,7 +6,7 @@ author: 'Elena Sosa Lerín'
 ---
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fit,h_324,q_auto,w_500/v1603325519/articles/01_VetLab_edit-001_mlbp17.jpg" loading="lazy" alt="Group photo in a science lab." class="lazyload">
-<figcaption>
+<figcaption class="posts">
     <p>Kenyan veterinary laboratory technologists, Ms. Teresia Chepkosgei Kenduiywo and Ms. Alice Alego Matole, stand with their South Sudanese “twins” whom they’ve been mentoring for the past year. Everyone works hard, under challenging circumstances to establish an efficient laboratory that can diagnose animal diseases and improve animal health in South Sudan.<span class="thick"> Photo:</span> Courtesy of Ms. Alice Alego Matole</p>
 </figcaption>
 </figure>
