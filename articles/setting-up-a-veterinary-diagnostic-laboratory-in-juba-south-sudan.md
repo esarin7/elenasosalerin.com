@@ -66,6 +66,7 @@ The "twins" can now carry out the ELISA test, a quick way to detect and measure 
 Ms. Matole and Ms. Kenduiywo's work in Juba's Central Veterinary Diagnostic Laboratory is possible thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a capacity development initiative by the Intergovernmental Authority on Development (IGAD), an eight-country regional development block in eastern Africa, as well as the government of South Sudan.
 
 The initiative's objective is to strengthen South Sudanese civil service capacity at both national and sub-national levels. This is accomplished by lending out seasoned civil servants from these three IGAD countries – known as Civil Service Support Officers (CSSOs) – and pairing them up with South Sudanese counterparts, usually referred to as "twins."
+
 Their relationship is one of mentoring, coaching, and close collaboration.
 
 Since 2011, over three hundred CSSOs, working on two-year contracts, have come to South Sudan to support capacity-building efforts in sectors like agriculture, aviation, finance, and public health. Their own countries cover their salaries while other expenses are paid for by the government of Norway, the project's sole donor. The United Nations Development Programme (UNDP) is responsible for the coordination and implementation of this initiative. 
