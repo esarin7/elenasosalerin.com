@@ -613,10 +613,15 @@ figure img {
 }
 
 /* For the captions in ABOUT THIS SITE and PRIVACY */
-figcaption p {
+figcaption {
   font-size: 14px;
   font-style: italic;
 }
+
+.single-post figcaption {
+  font-size: 14px;
+}
+
 
 
 
