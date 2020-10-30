@@ -59,7 +59,7 @@ After eight months of trials and errors starting in January of this year, severa
 As for the self-doubt about my writing:
 
 
-https://twitter.com/kate_mckean/status/768166928858820608
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p>&mdash; Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608?ref_src=twsrc%5Etfw">August 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
