@@ -66,7 +66,7 @@ As for the self-doubt about my writing, I agree with this opinion:
 </p>
 </blockquote>
 
-This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. As Seth Godin <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
+This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. Seth Godin is right when he <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
 
 <blockquote>
 <p>
