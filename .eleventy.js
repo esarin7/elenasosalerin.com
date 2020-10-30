@@ -45,5 +45,11 @@ module.exports = function (eleventyConfig) {
   });
 };
 
+// Twitter plugin //
+const embedTwitter = require("eleventy-plugin-embed-twitter");
+ 
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedTwitter);
+};
 
 
