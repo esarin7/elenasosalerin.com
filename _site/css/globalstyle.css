@@ -127,8 +127,9 @@ figcaption a:hover {
   color: inherit;
 } 
 
-/* Blockquote */
+/* Blockquote for my quotes */
 blockquote {
+  margin-top: 12px;
   border-left: .4rem solid #5e7dbb;  
   display: block;
   margin-block-start: 1em;
@@ -154,52 +155,15 @@ blockquote.twitter-tweet {
   background-size: 1.25rem 1.25rem;
   display: inline-block;
   padding: 1rem 2rem 1rem 1rem;
-  border: 1px solid #1e2144;
+  border: 2px solid #5e7dbb;
   border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
   max-width: 468px;
 }
 
 blockquote.twitter-tweet > p {
   margin: 0;
 } 
-
-
-
-
-/* blockquote.twitter-tweet {
-  display: inline-block;
-  font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
-  font-size: 12px;
-  font-weight: bold;
-  line-height: 16px;
-  border-color: #eee #ddd #bbb;
-  border-radius: 5px;
-  border-style: solid;
-  border-width: 1px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-  margin: 10px 5px;
-  padding: 0 16px 16px 16px;
-  max-width: 468px;
-}
-
-blockquote.twitter-tweet p {
-  font-size: 16px;
-  font-weight: normal;
-  line-height: 20px;
-}
-
-blockquote.twitter-tweet a {
-  color: inherit;
-  font-weight: normal;
-  text-decoration: none;
-  outline: 0 none;
-}
-
-blockquote.twitter-tweet a:hover,
-blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-} */
 
 /* Turquoise decorating line */
 .separator {
