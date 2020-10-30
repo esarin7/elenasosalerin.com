@@ -56,9 +56,15 @@ After eight months of trials and errors starting in January of this year, severa
 
 <a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never do anything. Something non-existent can't make any impressions.
 
-As for the self-doubt about my writing:
+As for the self-doubt about my writing, I agree with this opinion:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p><p>&mdash;Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608">August 23, 2016</a></p></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+<p>
+(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a>
+</p>
+<p>&mdash;Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608">August 23, 2016</a>
+</p>
+</blockquote>
 
 This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. As Seth Godin <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
 
