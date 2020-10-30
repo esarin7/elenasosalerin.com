@@ -27,7 +27,7 @@ That thought was the seed I used to grow my tree of excuses:
         <li>Oh, I don't have enough money to pay a web designer to do a sassy website that projects my personality.</li>
         <li>Yikes, what's this hosting stuff? Paying for a domain, why, what's that? Oh, that's pricey.</li>
         <li>Ah, but look at the free website templates. I can't find anything that says "me."</li>
-        <li>Gosh, what a busy week; my brain is mush, I can't think, let's drink wine and binge watch a TV show to give my brain cells a well-deserved break.(Repeat this every time the little voice in your head whispers, <em>you know you want it and can do it, and this weekend you've got the time to plan it out…</em> Drown her with Malbec! It's such a tangy, fruity, full-bodied way to hinder any productivity.)</li>
+        <li>Gosh, what a busy week; my brain is mush, I can't think, let's drink wine and binge watch a TV show to give my brain cells a well-deserved break. (Repeat this every time the little voice in your head whispers, <em>you know you want it and can do it, and this weekend you've got the time to plan it out…</em> Drown her with Malbec! It's such a tangy, fruity, full-bodied way to hinder any productivity.)</li>
         <li>There's absolutely nothing interesting I can write about because I'm not that interesting. Anyways, I thought about this idea, but I noticed that this famous journalist already wrote similar in this big-shot publication, so, bummer, why bother, it's already been said and done.</li>
       </ul>
 

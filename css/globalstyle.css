@@ -129,13 +129,20 @@ figcaption a:hover {
 
 /* Blockquote */
 blockquote {
-  color: #5e7dbb;
+  border-left: .4rem solid #5e7dbb;  
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 40px;
   margin-inline-end: 40px;
 }
+
+/* blockquote p {
+  margin-left: 0;
+    padding-left: 1.25rem;
+    font-style: italic;
+    font-size: 1.56rem;
+} */
 
 /* Turquoise decorating line */
 .separator {
