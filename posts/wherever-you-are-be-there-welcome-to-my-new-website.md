@@ -14,7 +14,7 @@ author: 'Elena Sosa Lerín'
 
 In the past twelve years, I've lived in ten countries across three continents. I've left breadcrumbs of my views and experiences scattered around in different digital spaces. I started with <a href=”https://en.wikipedia.org/wiki/Hi5”> Hi5</a>, later used <a href=”https://www.feedough.com/does-myspace-still-exist-why-did-myspace-fail/”>MySpace</a>, followed by Facebook, then Twitter, and later Instagram. 
 
-Throughout the years, as I kept moving from country to country, many friends suggested I started a blog. I contemplated the idea a few times, but self-doubt always won. Ironically, for someone who makes her living out of crafting factual, persuasive, and engaging content, I wondered if anything I had to say had any value. 
+Throughout the years, as I kept moving from country to country, many friends suggested I started a blog. I contemplated the idea a few times, but self-doubt always won. Ironically, for someone who makes her living mostly by writing, I wondered if anything I had to say had any value. 
 
 
 #### When in deep self-doubt, excuses are excellent tools for self-sabotage
