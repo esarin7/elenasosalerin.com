@@ -54,7 +54,7 @@ I also don't like the idea of someone else owning, controlling, or having rights
 
 After eight months of trials and errors, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space &mdash; my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
 
-<a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never do anything. Something non-existent can't make any impressions.
+<a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never get anywhere. Something non-existent can't make any impressions.
 
 As for the self-doubt about my writing, I agree with this opinion:
 
