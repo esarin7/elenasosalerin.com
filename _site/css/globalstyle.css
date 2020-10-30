@@ -128,7 +128,7 @@ figcaption a:hover {
 } 
 
 /* Blockquote */
-blockquote {
+/* blockquote {
   border-left: .4rem solid #5e7dbb;  
   display: block;
   margin-block-start: 1em;
@@ -144,22 +144,9 @@ blockquote p {
   padding-left: 1.25rem;
   font-style: italic;
   font-size: 24px;
-}
+} */
 
 /* Style for TWitter blockquotes embdeds */
-blockquote.twitter-tweet {
-  background-image: url("/ionicons/logo-twitter.svg");
-  background-repeat: no-repeat;
-  background-position: top 0.5rem right 0.5rem;
-  background-size: 1.25rem 1.25rem;
-  padding: 1rem 2rem 1rem 1rem;
-  border: 1px solid #e1e8ed;
-  border-radius: 5px;
-}
-
-blockquote.twitter-tweet > p {
-  margin: 0;
-}
 
 
 
