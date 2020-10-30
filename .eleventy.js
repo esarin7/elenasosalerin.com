@@ -29,13 +29,6 @@ eleventyConfig.setBrowserSyncConfig({
 });
 };
 
-//Twitter plugin //
-const embedTwitter = require('eleventy-plugin-embed-twitter');
- 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(embedTwitter);
-};
-
 // Date formatting //
 const moment = require('moment');
 moment.locale('en');
