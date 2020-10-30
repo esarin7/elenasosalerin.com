@@ -47,12 +47,12 @@ But I didn't want a blog. I wanted to create a space where I could express mysel
 
 More importantly, I wanted to house my own content in one place.
 
-In the past, I wrote for a few online publications that eventually went offline. I created content and products for some organizations that were deleted during website revamps. That work is gone. <a href="https://indieweb.org/site-deaths">Dead</a>. I have nothing to show for it. 
+In the past, other than my scattered use of social media platforms, I wrote for a few online publications that eventually went offline. I created content and products for some organizations that were deleted during website revamps. That work is gone. <a href="https://indieweb.org/site-deaths">Dead</a>. I have nothing to show for it. 
 
 
 I also don't like the idea of someone else owning, controlling, or having rights over *my* content. 
 
-After eight months of trials and errors starting in January of this year, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space &mdash; my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
+After eight months of trials and errors, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space &mdash; my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
 
 <a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never do anything. Something non-existent can't make any impressions.
 
