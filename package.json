@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "eleventy-plugin-embed-twitter": "^1.0.2",
     "moment": "^2.29.0"
   }
 }
