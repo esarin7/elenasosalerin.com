@@ -52,13 +52,13 @@ In the past, I wrote for a few online publications that eventually went offline.
 
 I also don't like the idea of someone else owning, controlling, or having rights over *my* content. 
 
-After eight months of trials and errors starting in January of this year, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space – my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
+After eight months of trials and errors starting in January of this year, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space &mdash; my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
 
 <a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never do anything. Something non-existent can't make any impressions.
 
 As for the self-doubt about my writing:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p>&mdash; Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608?ref_src=twsrc%5Etfw">August 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p>&mdash;<p>Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608?ref_src=twsrc%5Etfw">August 23, 2016</a></p></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. As Seth Godin <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
@@ -69,6 +69,7 @@ This site is where I will be telling and sharing <em>my</em> stories, my thought
 [If an idea] merely stays where it is and doesn't join us here, it's hidden. And hidden ideas don't ship, have no influence, no intersection with the market. They die, alone.
 </p>
 </blockquote>
+
 
 
 
