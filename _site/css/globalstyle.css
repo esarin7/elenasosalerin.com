@@ -139,9 +139,11 @@ blockquote {
 
 blockquote p {
   margin-left: 0;
+  opacity: .85;
+  padding: 1.25rem 0;
     padding-left: 1.25rem;
     font-style: italic;
-    font-size: 1.56rem;
+    font-size: 24px;
 }
 
 /* Turquoise decorating line */
