@@ -127,6 +127,15 @@ figcaption a:hover {
   color: inherit;
 } 
 
+/* Blockquote */
+blockquote {
+  color: #5e7dbb;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
 
 /* Turquoise decorating line */
 .separator {
