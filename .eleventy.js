@@ -4,9 +4,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('css');
     eleventyConfig.addPassthroughCopy('img');
     eleventyConfig.addPassthroughCopy('js');
-    eleventyConfig.addPassthroughCopy('robots.txt')
-    eleventyConfig.addPassthroughCopy('site.webmanifest')
-
+    eleventyConfig.addPassthroughCopy('robots.txt');
+    eleventyConfig.addPassthroughCopy('site.webmanifest');
+  
     eleventyConfig.addFilter('dump', obj => {
         return util.inspect(obj);
     })
@@ -27,7 +27,13 @@ eleventyConfig.setBrowserSyncConfig({
   ui: false,
   ghostMode: false
 });
+};
 
+//Twitter plugin //
+const embedTwitter = require("eleventy-plugin-embed-twitter");
+ 
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedTwitter);
 };
 
 // Date formatting //
