@@ -30,6 +30,13 @@ eleventyConfig.setBrowserSyncConfig({
 
 };
 
+// Twitter plugin //
+const embedTwitter = require("eleventy-plugin-embed-twitter");
+ 
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedTwitter);
+};
+
 // Date formatting //
 const moment = require('moment');
 moment.locale('en');
@@ -44,12 +51,3 @@ module.exports = function (eleventyConfig) {
     return moment(date).utc().format('LL'); // E.g. May 31, 2019
   });
 };
-
-// Twitter plugin //
-const embedTwitter = require("eleventy-plugin-embed-twitter");
- 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(embedTwitter);
-};
-
-
