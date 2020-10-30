@@ -11,6 +11,13 @@ module.exports = function(eleventyConfig) {
         return util.inspect(obj);
     })
 
+// Twitter plugin //
+const embedTwitter = require("eleventy-plugin-embed-twitter");
+ 
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedTwitter);
+};
+
 // 404 page //
 eleventyConfig.setBrowserSyncConfig({
   callbacks: {
