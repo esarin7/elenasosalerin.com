@@ -128,7 +128,7 @@ figcaption a:hover {
 } 
 
 /* Blockquote */
-blockquote .myquote {
+blockquote {
   border-left: .4rem solid #5e7dbb;  
   display: block;
   margin-block-start: 1em;
@@ -137,7 +137,7 @@ blockquote .myquote {
   margin-inline-end: 40px; 
 } 
 
-blockquote p .myquote {
+blockquote p {
   margin-left: 0;
   opacity: .78;
   padding: 1.25rem 0;

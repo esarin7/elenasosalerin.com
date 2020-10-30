@@ -64,7 +64,7 @@ As for the self-doubt about my writing:
 This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. As Seth Godin <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
 
 
-<blockquote class="myquote">
+<blockquote>
 <p>
 [If an idea] merely stays where it is and doesn't join us here, it's hidden. And hidden ideas don't ship, have no influence, no intersection with the market. They die, alone.
 </p>
