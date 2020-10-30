@@ -58,7 +58,9 @@ After eight months of trials and errors starting in January of this year, severa
 
 As for the self-doubt about my writing:
 
-<a href="https://twitter.com/kate_mckean/status/768166928858820608"></a>
+<p>
+https://twitter.com/kate_mckean/status/768166928858820608"
+</p>
 
 
 This site is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. As Seth Godin <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
