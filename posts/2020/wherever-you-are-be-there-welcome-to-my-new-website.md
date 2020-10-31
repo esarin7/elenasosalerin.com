@@ -5,9 +5,9 @@ description: After years of doubt, followed by eight months of trials and errors
 author: 'Elena Sosa Lerín'
 ---
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1604007535/notes/post-one-note-thanun-unsplash_twhbev.jpg" loading="lazy" alt="Woman staring at a light show inside an art gallery." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1604173675/notes/cosmin-serban-lights-museum-unsplash_qzrk8b.jpg" loading="lazy" alt="People admiring a light show inside an art gallery." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> <a href="https://unsplash.com/photos/gz_OvDdPVd0">note thanun</a> / Unsplash</p>
+    <p><span class="thick">Photo:</span> <a href="https://unsplash.com/photos/2fn_pxLMS9g">Cosmin Serban</a> / Unsplash</p>
 </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ I also don't like the idea of someone else owning, controlling, or having rights
 
 After eight months of trials and errors, several screams of frustration in between, and three prolonged work-related breaks, I built my personal publishing space &mdash; my <a href="https://matthiasott.com/articles/into-the-personal-website-verse">home on the internet</a>.
 
-<a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, I will never get anywhere. Something non-existent can't make any impressions.
+<a href="/about-this-site">It's not where I want it to be yet</a>. But I can only get my site there by making mistakes, tweaking and changing things around, and learning in the process. If I keep waiting for it to be perfect, it'll never get anywhere. Something non-existent can't make any impressions.
 
 As for the self-doubt about my writing, I agree with this opinion:
 
@@ -66,7 +66,7 @@ As for the self-doubt about my writing, I agree with this opinion:
 </p>
 </blockquote>
 
-From now on, this is where I will be telling and sharing <em>my</em> stories, my thoughts, and what I care about. Seth Godin is right when he <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
+From now on, this is where I'll be telling and sharing my stories, my thoughts, and what I care about. Seth Godin is right when he <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
 
 <blockquote>
 <p>

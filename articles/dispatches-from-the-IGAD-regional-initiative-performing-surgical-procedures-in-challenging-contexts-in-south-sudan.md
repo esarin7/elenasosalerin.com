@@ -11,7 +11,7 @@ Dr. Kakande explained during an interview with Lukan David, Radio Miraya's host,
 "But at this point," a proud Dr. Kakande declared, "I'm their surgical assistant."
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158662/edited-0187_kp93bv.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158662/articles/edited-0187_kp93bv.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
 <figcaption>
     <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Initiative. Dr. Kakande (bottom right) listens to one of his "twins" talk about the progress they've made.</p>
 </figcaption>
@@ -25,7 +25,7 @@ But he found motivation in his colleagues' eagerness and willingness to learn as
 
 Both Mr. Matuiery and Mr. Anthony, who is the acting medical director of the Wau Teaching Hospital, can benefit from Dr. Kakande's expertise thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a capacity development initiative from the Intergovernmental Authority on Development (IGAD), an eight-country trade block in eastern Africa.
 
-The objective of the <a href="https://www.ss.undp.org/content/south_sudan/en/home/projects/support-to-public-administration.html" target="blank"> IGAD Initiative</a> is to strengthen the capacity of the South Sudanese civil service at a national and provincial level. Seasoned civil servants from these three East African countries – known as civil service support officers (CSSOs) – are seconded to South Sudan and paired with a South Sudanese counterpart, usually referred to as a "twin."
+The objective of the <a href="https://www.ss.undp.org/content/south_sudan/en/home/projects/support-to-public-administration.html" target="blank"> IGAD Initiative</a> is to strengthen the capacity of the South Sudanese civil service at a national and provincial level. Seasoned civil servants from these three East African countries &mdash; known as civil service support officers (CSSOs) &mdash; are seconded to South Sudan and paired with a South Sudanese counterpart, usually referred to as a "twin."
 
 The relationship is one of mentoring, coaching and close collaboration.
 

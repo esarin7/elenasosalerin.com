@@ -55,24 +55,24 @@ Since late 2015, Ms. Kenduiywo and Ms. Matole have intensely worked with their f
 
 The laboratory has operated without electricity since July 2015 due to the smouldering of the central cable that powered the lab. To preserve animal samples, they're taken to a nearby veterinary research lab supported by FAO, which has freezers run by a generator. 
 
-Although Mrs. Kenduiywo and Ms. Matole managed to fix one microscope, there's lab equipment that needs to be repaired and maintained by biomedical engineers – the type of technical capacity missing in the country's animal health sector.
+Although Mrs. Kenduiywo and Ms. Matole managed to fix one microscope, there's lab equipment that needs to be repaired and maintained by biomedical engineers &mdash; the type of technical capacity missing in the country's animal health sector.
 
 The lab doesn't have a safe waste disposal system. Since there aren't incinerators, the lab's trash is burned in a nearby field, which, as Ms. Kenduiywo explains, is a potential health hazard for the people living nearby. It's suspected that this waste burning is what damaged the lab's main power cable.
 
 But despite these challenges, there have been significant achievements.
 
-The "twins" can now carry out the ELISA test, a quick way to detect and measure antibodies in the bloodstream. They can perform microscopic examinations of blood, saliva, and urine to test for potential infections. They've also learned to use rapid test kits and assist with veterinary surveillance – the ongoing collection, analysis, and monitoring of animal health information. 
+The "twins" can now carry out the ELISA test, a quick way to detect and measure antibodies in the bloodstream. They can perform microscopic examinations of blood, saliva, and urine to test for potential infections. They've also learned to use rapid test kits and assist with veterinary surveillance &mdash; the ongoing collection, analysis, and monitoring of animal health information. 
 
 "Their progress has been impressive," says Ms. Matole. "The most exciting part of my day is to see my twins do something on their own. I know it's not easy for them because they don't have a strong scientific background. They don't get paid, and yet, they still show up to work. That's to be admired, and that's why we enjoy working with them."
 
 Ms. Matole and Ms. Kenduiywo's work in Juba's Central Veterinary Diagnostic Laboratory is possible thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a capacity development initiative by the Intergovernmental Authority on Development (IGAD), an eight-country regional development block in eastern Africa, as well as the government of South Sudan.
 
-The initiative's objective is to strengthen South Sudanese civil service capacity at both national and sub-national levels. This is accomplished by lending out seasoned civil servants from these three IGAD countries – known as Civil Service Support Officers (CSSOs) – and pairing them up with South Sudanese counterparts, usually referred to as "twins."
+The initiative's objective is to strengthen South Sudanese civil service capacity at both national and sub-national levels. This is accomplished by lending out seasoned civil servants from these three IGAD countries &mdash; known as Civil Service Support Officers (CSSOs) &mdash; and pairing them up with South Sudanese counterparts, usually referred to as "twins."
 
 Their relationship is one of mentoring, coaching, and close collaboration.
 
 Since 2011, over three hundred CSSOs, working on two-year contracts, have come to South Sudan to support capacity-building efforts in sectors like agriculture, aviation, finance, and public health. Their own countries cover their salaries while other expenses are paid for by the government of Norway, the project's sole donor. The United Nations Development Programme (UNDP) is responsible for the coordination and implementation of this initiative.
 
-<span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span><em> A <a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank">version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.</em>
+<span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span> <em>A<a href="https://www.ss.undp.org/content/south_sudan/en/home/presscenter/articles/2016/09/29/dispatches-from-the-igad-regional-initiative-setting-up-a-veterinary-diagnostic-laboratory-in-juba-south-sudan.html" target="blank"> version of this story</a> was originally published on September 2016 in the website of the United Nations Development Programme (UNDP) in South Sudan.</em>
 
 

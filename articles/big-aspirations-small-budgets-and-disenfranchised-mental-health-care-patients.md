@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 *By Elena Sosa Lerin and Lucas Bottoman*
 
 <figure>
-<img data-src="https://res.cloudinary.com/esarin72/image/upload/c_mpad,h_600,q_auto:good/v1603222831/malawi-mental-health-care_ogyr50.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
+<img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1603222831/articles/malawi-mental-health-care_ogyr50.jpg" loading="lazy" alt="Nurse attends a patient sitting on the floor." class="lazyload">
 <figcaption>
     <p>Epilepsy, depression, schizophrenia and bipolar disorders are some of the top mental health issues in Malawi. <span class="thick">Photo:</span> Courtesy of Blantyre News Limited</p>
 </figcaption>
@@ -19,7 +19,7 @@ By 2020, they will rank second, behind heart disease.
 
 WHO studies indicate that in Africa, mental health issues such as epilepsy, depression, psychosis, substance abuse, and other psychotic disorders are among the top ten causes of disability.
 
-But in Malawi, where health policies and development goals are primarily centred on the prevention of HIV and AIDS, the reduction of maternal mortality, tuberculosis, and malaria, mental healthcare is - at best - an afterthought.
+But in Malawi, where health policies and development goals are primarily centred on the prevention of HIV and AIDS, the reduction of maternal mortality, tuberculosis, and malaria, mental healthcare is &mdash; at best &mdash; an afterthought.
 
 Case in point, the Ministry of Health has no reliable data on the nature and the extent of those suffering mental disorders.
 
@@ -47,7 +47,7 @@ For instance, the psychiatric section of the Queen Elizabeth Central Hospital (Q
 
 Based on hospital records, six out of ten patients are relapsing due to the lack of drugs at QECH.
 
-"There's no hope for many patients," says one of the psychiatric nurses from QECH. "It is a very sad situation to see – and we can't do much about it."
+"There's no hope for many patients," says one of the psychiatric nurses from QECH. "It is a very sad situation to see &mdash; and we can't do much about it."
 
 The little the nurses can do is to substitute drugs if possible. But sometimes, they have to turn patients away if they don't have the right drugs to treat their specific needs.
 
@@ -55,7 +55,7 @@ The little the nurses can do is to substitute drugs if possible. But sometimes, 
 
 Adding to the lack of essential drugs, there's also the scarcity of mental health care workers.
 
-For instance, QECH has just one psychiatrist and 18 nurses to attend an average of 2700 patients a year. Bwaila Hospital doesn't even have a psychiatrist. It's entirely run by five nurses who attend about 200 patients every day.
+For instance, QECH has just one psychiatrist and 18 nurses to attend an average of 2,700 patients a year. Bwaila Hospital doesn't even have a psychiatrist. It's entirely run by five nurses who attend about 200 patients every day.
 
 Two years ago, Dr. Rob Stewart, the head of the psychiatric unit at QECH, decided to shut down patients' admissions because the rooms lacked windows and toilets.
 

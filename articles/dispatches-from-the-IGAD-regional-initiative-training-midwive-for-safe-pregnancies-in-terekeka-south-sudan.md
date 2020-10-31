@@ -31,7 +31,7 @@ Many of the women attending the health centre in Terekeka live as far as 25 kilo
 
 Mr. Odukis' work in Terekeka is possible thanks to the support of the governments of Ethiopia, Kenya, and Uganda through a <a href="https://www.ss.undp.org/content/south_sudan/en/home/projects/support-to-public-administration.html>" target="blank"> capacity development initiative</a> by the Intergovernmental Authority on Development (IGAD), an eight-country regional development block in eastern Africa, as well as the government of South Sudan.
 
-This initiative aims to strengthen the capacity of the South Sudanese civil service at a national and sub-national level. It accomplishes this by lending out seasoned civil servants from these three IGAD countries – known as Civil Service Support Officers (CSSOs) – and pairing them up with South Sudanese counterparts, usually referred to as "twins."
+This initiative aims to strengthen the capacity of the South Sudanese civil service at a national and sub-national level. It accomplishes this by lending out seasoned civil servants from these three IGAD countries &mdash; known as Civil Service Support Officers (CSSOs) &mdash; and pairing them up with South Sudanese counterparts, usually referred to as "twins."
 
 Their relationship is one of mentoring, coaching, and close collaboration.
 
@@ -50,7 +50,7 @@ midwives can help prevent two-thirds of all maternal deaths</a>. They also expla
 </figcaption>
 </figure>
 
-Mr. Odukis mentors his twins - three nurses and one midwife - in providing general medical care and support for issues such as anemia, deworming, malaria, and the prevention of mother to child transmission of HIV.
+Mr. Odukis mentors his twins &mdash; three nurses and one midwife &mdash; in providing general medical care and support for issues such as anemia, deworming, malaria, and the prevention of mother to child transmission of HIV.
 
 The twins also learn how to advise pregnant women and girls on diet, hygiene, and recognition of danger signs. Their training is not focused exclusively on safe deliveries. Mr. Odukis also educates them on post-natal check-ups, breastfeeding issues, and newborn care practices.
 
@@ -60,7 +60,7 @@ While working in Bentiu in 2012, fighting broke out between Sudanese and South S
 
 When the latest wave of violence took place in July 2016, the women and girls of Terekeka were attended and cared for by Mr. Odukis and his twins, who remain committed to their work, despite the precarious and uncertain conditions prevailing in the country.
 
-While many of the reasons for pregnant women and girls dying in South Sudan are the same as in other parts of the world – hemorrhages, infections, or delivery complications – Mr. Odukis explains that these are magnified by the lack of medical equipment and supplies, basic resources including electricity and water, and trained personnel, like anesthesiologists.
+While many of the reasons for pregnant women and girls dying in South Sudan are the same as in other parts of the world &mdash; hemorrhages, infections, or delivery complications &mdash; Mr. Odukis explains that these are magnified by the lack of medical equipment and supplies, basic resources including electricity and water, and trained personnel, like anesthesiologists.
 
 Therefore, to improve access to and quality of care, increased funding and resources are required. This could make a real impact in the lives of thousands of women seeking antenatal assistance, as well as in the lives of the midwives and nurses that aim to assist them.
 

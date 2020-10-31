@@ -20,13 +20,13 @@ Of affable allure and with a serene expression, Kunyenje remembers drawing on an
 
 Although he studied painting at the University of Malawi, he is mostly a self-taught caricaturist who has "picked [up] some tricks along the way." 
 
-He follows cartoonists at Newsweek and the Washington Post and enjoys Dik Browne's <a href="https://en.wikipedia.org/wiki/Hägar_the_Horrible" target="blank">Hägar the Horrible</a> because of its unclassifiable humour.
+He follows cartoonists at <em>Newsweek</em> and <em>The Washington Post</em> and enjoys Dik Browne's <a href="https://en.wikipedia.org/wiki/Hägar_the_Horrible" target="blank">Hägar the Horrible</a> because of its unclassifiable humour.
 
 Political cartooning is relatively new in this country. Before the 1990s, the press was just an outlet for government propaganda, and cartoons were mere depictions of places or events, often published in lieu of photographs.
 
 But between 1993 and 1994, the 33-year rule of President Hastings Banda came to an end, and the press was liberated. Suddenly, there was a demand to graphically satirize the new political atmosphere, and editors hired anyone who could caricature it.
 
-Kunyenje started working as a cartoonist at New Voice, a small, local newspaper in the northern city of Mzuzu - but he had broader aspirations.
+Kunyenje started working as a cartoonist at <em>New Voice</em>, a small, local newspaper in the northern city of Mzuzu &mdash; but he had broader aspirations.
 
 In 1994, he mailed samples of his work to the editors of BNL, a move that has placed him on the national press scene for the past 17 years.
 
@@ -48,9 +48,9 @@ At this point, Kunyenje's stutter takes over his speech. He stops talking, reach
 
 Something that would contribute to the betterment of cartoonists in Malawi is criticism. But Kunyenje points out that he only gets positive feedback from the readers, who he says, "think cartoons are just something to laugh at."
 
-Yet there is always the occasional government official who threatens the papers with censorship, like the Minister of Information and Tourism, Patricia Kaliati, who in April 2006, considered cartoons from national newspapers The Daily Times and The Nation to be "disgracefully castigating the government."
+Yet there is always the occasional government official who threatens the papers with censorship, like the Minister of Information and Tourism, Patricia Kaliati, who in April 2006, considered cartoons from national newspapers <em>The Daily Times</em> and <em>The Nation</em> to be "disgracefully castigating the government."
 
-Although his editors deal directly with the censorship threats, he welcomes such comment on his cartoons - even if they're negative - because such comments are an acknowledgement of the art of cartooning.
+Although his editors deal directly with the censorship threats, he welcomes such comment on his cartoons &mdash; even if they're negative &mdash; because such comments are an acknowledgement of the art of cartooning.
 
 <span role="img" aria-label="right-triangle" class="right-triangle">&#9658;</span><em> A <a href="https://thestar.blogs.com/africa/2011/10/whats-missing-in-malawian-political-cartoons-critical-views-and-a-bit-of-sophistication.html" target="blank">version of this story</a> was originally published on October 2016 in The Toronto Star's 'Africa without Maps' blog.</em>
 
