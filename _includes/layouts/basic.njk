@@ -4,6 +4,10 @@
 <head>
 <title> {{ title }} </title>
  {% include "layouts/page-head.njk" %}
+ 
+ {% if ignore %}
+    <meta name="robots" content="noindex"/>
+  {% endif %}
 </head>
 
 <body>

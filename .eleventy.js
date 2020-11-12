@@ -7,7 +7,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('favicon');
     eleventyConfig.addPassthroughCopy('robots.txt');
     eleventyConfig.addPassthroughCopy('site.webmanifest');
-  
+
     eleventyConfig.addFilter('dump', obj => {
         return util.inspect(obj);
     })
@@ -44,3 +44,7 @@ module.exports = function (eleventyConfig) {
     return moment(date).utc().format('LL'); // E.g. May 31, 2019
   });
 };
+
+
+
+  

@@ -44,7 +44,7 @@ This solid explainer of <a href="https://futureofgood.co/trumpism-in-canada/"> h
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
-I can't remember the last time I heard a record in its entirety without skipping songs. That wasn't the case with <a href="https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=Newsletter+Radio+Ambulante&utm_campaign=ef0114c24b-EMAIL_CAMPAIGN_2020_08_06_09_06_COPY_01&utm_medium=email&utm_term=0_e2fc316930-ef0114c24b-110953113"> Lianne La Havas third and latest album</a>. I enjoyed and keep enjoying every single of her 12 songs. Her bold and multilayered voice gives Lauren Hill and Nina Simone vibes. 
+I can't remember the last time I heard a record in its entirety without skipping songs. That wasn't the case with <a href="https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=Newsletter+Radio+Ambulante&utm_campaign=ef0114c24b-EMAIL_CAMPAIGN_2020_08_06_09_06_COPY_01&utm_medium=email&utm_term=0_e2fc316930-ef0114c24b-110953113"> Lianne La Havas third and latest album</a>. I enjoyed and keep enjoying every single one of her 12 songs. Her bold and multilayered voice gives Lauren Hill and Nina Simone vibes. 
 
 #### <span role="img" aria-label="single eye">👁️</span> To Watch
 

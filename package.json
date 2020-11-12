@@ -1,22 +1,27 @@
 {
   "name": "elenasosalerin.com",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A personal site for Elena Sosa Lerín using the Eleventy static site generator.",
   "scripts": {
     "start": "npx eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1",
     "debug": "DEBUG=* npx eleventy"
   },
-  "keywords": [],
-  "homepage": "/",
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esarin7/elenasosalerin.com"
+  },
+  "author": {
+    "name": "Elena Sosa Lerín",
+    "email": "elenasosalerin@gmail.com",
+    "url": "https://www.elenasosalerin.com"
+  },
+  "homepage": "https://www.elenasosalerin.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.1"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "moment": "^2.29.0"
+    "core-js": "^3.7.0",
+    "moment": "^2.29.1"
   }
 }

@@ -1,20 +1,15 @@
 {
     "title": "Elena Sosa Lerín",
     "url": "https://www.elenasosalerin.com/",
-    "description": "Elena Sosa Lerín is a curious and creative international communications specialist who takes photos and codes.",
+    "description": "Elena Sosa Lerín is a curious and creative international communications specialist who writes, takes photos, and codes.",
+    "keywords": "content development, writing, digital communications, communications strategy, social media", 
     "lang": "en",
     "locale": "en_ca",
 
-    "feed": {
-      "subtitle": "writing, communications, social media, blogging, content development.",
-      "filename": "feed.xml",
-      "path": "/feed/feed.xml",
-      "id": "https://wwww.elenasosalerin.com/"
-    },
     "author": {
       "name": "Elena Sosa Lerín",
-      "email": "elenasosalerin@gmail.com",
-      "url": "https://www.elenasosalerin.com/about/"
-    }
+      "email": "elenasosalerin@gmail.com"
+    },
+    "domain": "elenasosalerin.com"
   }
   
