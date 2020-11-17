@@ -73,7 +73,7 @@ Having said that, <span class="thick">you don't have to become a developer to im
 
 Generally, many people <span class="thick">enormously underestimate how hard it is </span> to learn to code. 
 
-It's unfair and enraging that this "advice" is used by <a href="https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists" target="blank"> trolls to harass laid-off journalists</a>. Or that it's presented by <a href="https://twitter.com/CurtisHouck/status/1324896645297954816?ref_src=twsrc%5Etfw" target="blank">ignorant politicians as an obnoxious solution to unemployment</a>:
+It's unfair and enraging that this "advice" is used by <a href="https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists" target="blank"> trolls to harass laid-off journalists</a>. Or that it's presented by <a href="https://twitter.com/CurtisHouck/status/1324896645297954816?ref_src=twsrc%5Etfw" target="blank">ignorant politicians as an obnoxious solution to unemployment</a>.
 
 Ignore anyone who says that coding is easy and that everyone should learn to code. 
 
