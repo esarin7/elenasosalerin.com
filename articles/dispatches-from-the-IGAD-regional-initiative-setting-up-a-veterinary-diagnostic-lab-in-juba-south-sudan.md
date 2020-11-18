@@ -1,5 +1,5 @@
 ---
-title: 'Dispatches from the IGAD Regional Initiative: Setting up a Veterinary Diagnostic Lab in Juba, South Sudan'
+title: "Dispatches from the IGAD Regional Initiative: Setting up a Veterinary Diagnostic Lab in Juba, South Sudan"
 date: 2016-09-29 05:39:29
 description: for the United Nations Development Programme (UNDP) in South Sudan. (September 2016)
 author: 'Elena Sosa Lerín'

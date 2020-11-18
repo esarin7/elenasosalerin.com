@@ -1,5 +1,5 @@
 ---
-title: 'Dispatches from the IGAD Regional Initiative: Performing Surgical Procedures in Challenging Contexts in South Sudan'
+title: "Dispatches from the IGAD Regional Initiative: Performing Surgical Procedures in Challenging Contexts in South Sudan"
 date: 2016-06-30 05:33:07
 description: for the United Nations Development Programme (UNDP) in South Sudan. (May 2016)
 author: 'Elena Sosa Lerín'

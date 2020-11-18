@@ -2,7 +2,7 @@
     "layout": "layouts/post.njk",
 
     "sitemap": {
-        "changefreq": "monthly",
+        "changefreq": "weekly",
         "priority": "0.75"
       }, 
 
