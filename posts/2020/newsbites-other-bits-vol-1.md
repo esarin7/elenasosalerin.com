@@ -12,7 +12,7 @@ author: 'Elena Sosa Lerín'
 </figcaption>
 </figure>
 
-#### A weekly edition of things I think you'd like to read, listen to, and watch
+#### A weekly edition of content I think you'd like to read, listen to, and watch
 
 So here we are. Friday at last. 2020 has been baffling, existential, and dizzying but this week felt one hell of a sluggish long ride around an endless maze.  
 
