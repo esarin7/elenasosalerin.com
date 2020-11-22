@@ -42,7 +42,7 @@ Learning to code has been a difficult, exhausting, exasperating, and anxiety-ind
 This is how I felt last year, during certification, especially when learning JavaScript:
 
 <figure>
-<div class="tenor-gif-embed" data-postid="5632946" data-share-method="host" data-width="100%" data-aspect-ratio="1.4666666666666666"><a href="https://tenor.com/view/burn-elmo-pyro-burn-it-down-ashes-gif-5632946">Burn Elmo GIF</a> from <a href="https://tenor.com/search/burn-gifs">Burn GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="5632946" data-share-method="host" data-width="80%" data-aspect-ratio="1.4666666666666666"><a href="https://tenor.com/view/burn-elmo-pyro-burn-it-down-ashes-gif-5632946">Burn Elmo GIF</a> from <a href="https://tenor.com/search/burn-gifs">Burn GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <figure>
 <br>
@@ -106,7 +106,7 @@ People with more coding experience than me probably don't make my rookie mistake
 Because when I finally figure out the problem and make my code work, the pleasure and satisfaction I get is like drinking distilled joy. 
 
 <figure>
-<div class="tenor-gif-embed" data-postid="3531219" data-share-method="host" data-width="100%" data-aspect-ratio="1.1650717703349283"><a href="https://tenor.com/view/love-lucy-black-and-white-gif-3531219">I Love Lucy GIF</a> from <a href="https://tenor.com/search/love-gifs">Love GIFs</a>
+<div class="tenor-gif-embed" data-postid="3531219" data-share-method="host" data-width="80%" data-aspect-ratio="1.1650717703349283"><a href="https://tenor.com/view/love-lucy-black-and-white-gif-3531219">I Love Lucy GIF</a> from <a href="https://tenor.com/search/love-gifs">Love GIFs</a>
 </div>
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </figure>
