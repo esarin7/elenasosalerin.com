@@ -5,14 +5,12 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% for item in collections.all %}
-{%- unless item.data.ignore == true %}
   <url>
     <loc>https://www.elenasosalerin.com/{{ item.url }}</loc>
-    <lastmod>{{ item.date | date("yyyy-MM-dd")}}</lastmod>
+    <lastmod>{{ item.dateISo | dateIso("yyyy-MM-dd")}}</lastmod>
     <changefreq>{{ item.data.sitemapChangefreq | default("weekly") }}</changefreq>
     <priority>{{ item.data.sitemapPriority | default(0.8) }}</priority>
   </url>
-{%- endunless %}
 {% endfor %}
 </urlset>
 

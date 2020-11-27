@@ -1,125 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/big-aspirations-small-budgets-and-disenfranchised-mental-health-care-patients/</loc>
-            <lastmod>2011-09-21T06:33:07.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/ what&#39;s-missing-in-malawian-political-cartoons/</loc>
-            <lastmod>2011-10-08T07:35:07.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/fuel-scarcity-fuels-corruption-in-malawi/</loc>
-            <lastmod>2011-12-16T05:15:09.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-performing-surgical-procedures-in-challenging-contexts-in-south-sudan/</loc>
-            <lastmod>2016-06-30T05:33:07.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-training-midwive-for-safe-pregnancies-in-terekeka-south-sudan/</loc>
-            <lastmod>2016-09-06T05:23:33.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-setting-up-a-veterinary-diagnostic-lab-in-juba-south-sudan/</loc>
-            <lastmod>2016-09-29T05:39:29.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//about/</loc>
-            <lastmod>2020-09-23T00:00:55.288Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//about-this-site/</loc>
-            <lastmod>2020-09-23T00:01:12.599Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//contact/</loc>
-            <lastmod>2020-09-23T00:01:25.175Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//notebook/</loc>
-            <lastmod>2020-09-23T00:01:39.263Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//photography/</loc>
-            <lastmod>2020-09-23T00:01:51.478Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//privacy/</loc>
-            <lastmod>2020-09-23T00:01:58.585Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//web-dev-projects/</loc>
-            <lastmod>2020-09-23T00:02:16.721Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//work/</loc>
-            <lastmod>2020-09-23T00:02:21.717Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//writing/</loc>
-            <lastmod>2020-09-23T00:02:25.317Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//</loc>
-            <lastmod>2020-09-23T00:21:11.246Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//posts/2020/wherever-you-are-be-there-welcome-to-my-new-website/</loc>
-            <lastmod>2020-10-29T15:57:46.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//posts/2020/newsbites-other-bits-vol-1/</loc>
-            <lastmod>2020-11-06T09:12:58.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//posts/2020/three-reasons-why-I-learned-to-code-and-some-thoughts-on-why-you-shouldn&#39;t/</loc>
-            <lastmod>2020-11-17T08:39:18.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://www.elenasosalerin.com//posts/2020/newsbites-other-bits-vol-2/</loc>
-            <lastmod>2020-11-21T16:14:13.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/big-aspirations-small-budgets-and-disenfranchised-mental-health-care-patients/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/ what&#39;s-missing-in-malawian-political-cartoons/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/fuel-scarcity-fuels-corruption-in-malawi/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-performing-surgical-procedures-in-challenging-contexts-in-south-sudan/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-training-midwive-for-safe-pregnancies-in-terekeka-south-sudan/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//articles/dispatches-from-the-IGAD-regional-initiative-setting-up-a-veterinary-diagnostic-lab-in-juba-south-sudan/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//about/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//about-this-site/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//contact/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//notebook/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//photography/</loc>
+    <lastmod>2020-11-27T05:58:37.954Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//privacy/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//web-dev-projects/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//work/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//writing/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//posts/2020/wherever-you-are-be-there-welcome-to-my-new-website/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//posts/2020/newsbites-other-bits-vol-1/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//posts/2020/three-reasons-why-I-learned-to-code-and-some-thoughts-on-why-you-shouldn&#39;t/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//posts/2020/newsbites-other-bits-vol-2/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elenasosalerin.com//posts/2020/creativity-in-the-time-of-coronavirus/</loc>
+    <lastmod>2020-11-27T05:58:37.955Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
 
