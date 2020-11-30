@@ -65,7 +65,7 @@ But this is only possible by adopting multidisciplinary approaches. In other wor
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/v1606364246/notes/gold-girl_dltfzn.jpg" loading="lazy" alt="The artist posing next to one of her canvases at the Armory Show in New York City" class="lazyload">
 <figcaption>
-    <p>View more of <span class="thick"><a href="https://www.instagram.com/linairisviktor/" target="blank">@linairisviktor</a></span>'s work on Instagram.</p>
+    <p><span class="thick">View more of <a href="https://www.instagram.com/linairisviktor/" target="blank">@linairisviktor</a>'s work on Instagram.</span></p>
 </figcaption>
 </figure>
 

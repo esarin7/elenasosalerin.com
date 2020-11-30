@@ -7,8 +7,8 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1604645062/weekly%20editions/chagall_rmyowi.jpg" loading="lazy" alt="A man holds the hand of his floating wife." class="lazyload">
 <figcaption>
-    <p>Trying to channel a Chagallesque-type of joyful flow and glow in these adverse times. Emphasis on the trying. Some days it's harder than others.<br><span class="thick">
-    Image:</span> The Promenade (1917) by Marc Chagall</p>
+    <p>Trying to channel a Chagallesque-type of joyful flow and glow in these adverse times. Emphasis on the trying. Some days it's harder than others.<span class="thick">
+    Image: The Promenade (1917) by Marc Chagall</span></p>
 </figcaption>
 </figure>
 
@@ -24,6 +24,7 @@ It feels grim out there. While it's important to remain vigilant, to be informed
 That's why, for this first edition of my weekly roundup, I want to offer thoughtful and hopeful reflections and a couple of creative forms of mental escapism to recalibrate our senses. 
 
 <span role="img" aria-label="heart">❤️</span> Be kind to yourself and others. Enjoy your weekend.
+<div class="separator"></div>
 
 #### <span role="img" aria-label="open book">📖</span> To Read
 
@@ -42,9 +43,13 @@ This solid explainer of <a href="https://futureofgood.co/trumpism-in-canada/"> h
 </li>
 </ul>
 
+<div class="separator"></div>
+
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
 I can't remember the last time I heard a record in its entirety without skipping songs. That wasn't the case with <a href="https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=Newsletter+Radio+Ambulante&utm_campaign=ef0114c24b-EMAIL_CAMPAIGN_2020_08_06_09_06_COPY_01&utm_medium=email&utm_term=0_e2fc316930-ef0114c24b-110953113"> Lianne La Havas third and latest album</a>. I enjoyed and keep enjoying every single one of her 12 songs. Her bold and multilayered voice gives Lauren Hill and Nina Simone vibes. 
+
+<div class="separator"></div>
 
 #### <span role="img" aria-label="single eye">👁️</span> To Watch
 

@@ -20,6 +20,7 @@ Although we can't control the news around us, we can better manage our intellect
 These are disorienting times. Sometimes all we can do is take each day as it comes.
 
 <span role="img" aria-label="heart">❤️</span> Be kind to yourself and others. Enjoy your weekend.
+<div class="separator"></div>
 
 #### <span role="img" aria-label="open book">📖</span> To Read
 
@@ -49,15 +50,20 @@ The populations that least contribute to climate change are bearing the brunt of
 </li>
 </ul>
 <br>
+<div class="separator"></div>
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
 If you like fútbol and have questions or deep feelings on how Spain pulverized Germany this week in the Nations League (6 – 0 <span role="img" aria-label="face screaming in shock">😱</span>), the <a href="https://twitter.com/stadio" target="blank">Stadio</a> guys, Ryan Hunn and Musa Okwonga 
 <a href="https://spoti.fi/35PMnwB" target="blank"> offer a top-notch dissection of what happened</a>, talk about celebrities owning fútbol clubs (Hi, <a href="https://yhoo.it/2J3e7oj" target="blank">Ryan Reynolds</a>!), among other topics.
 
+<div class="separator"></div>
+
 #### <span role="img" aria-label="single eye">👁️</span> To Watch
 
 The process of hand-blocked wallpaper. <a href="https://bit.ly/373r7my" target="blank">It's captivating</a>. 
+
+<div class="separator"></div>
 
 #### <span role="img" aria-label="sparkler">🎇</span> Other Bits
 
@@ -65,7 +71,6 @@ The process of hand-blocked wallpaper. <a href="https://bit.ly/373r7my" target="
 <li>
 Check out the wonderful <a href="https://bit.ly/3nKwZYk" target="blank">Shazam of Plants</a> – free without ads.
 </li>
-<br>
 <li>
 This fascinating site where you can play and wonder about life millions of years ago - <a href="https://bit.ly/2UJUmVp" target="blank">the Ancient Earth Globe</a>. Type your city to see how it looked in relation to the rest of the world up to 750 million years ago.
 </li>

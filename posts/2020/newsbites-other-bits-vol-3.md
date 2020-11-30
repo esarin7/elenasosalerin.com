@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_600/v1606709712/weekly%20editions/tacos_wgya1j.jpg" loading="lazy" alt="Taqueros preparing tacos." class="lazyload">
 <figcaption>
-    <p>Sunday night nostalgia. Sorely missing my baes (the taqueros) and their love (tacos [especially suadero]). <span class="thick"> Image:</span> From the Instagram of one of my favourite taquerías, <a href="https://www.instagram.com/tacoscocuyos/" target="blank"> Los Cocuyos</a>, in downtown Mexico City.</p>
+    <p>Sunday night nostalgia. Sorely missing my baes (the taqueros) and their love (tacos [especially suadero]). <span class="thick"> Image: From the Instagram of one of my favourite taquerías, <a href="https://www.instagram.com/tacoscocuyos/" target="blank"> Los Cocuyos</a>, in downtown Mexico City.</span></p>
 </figcaption>
 </figure>
 
@@ -16,6 +16,7 @@ author: 'Elena Sosa Lerín'
 The last weeks of 2020 have been hectic and I’m barely keeping up. Apologies for this delayed content roundup. 
 
 <span role="img" aria-label="heart">❤️</span> Be kind to yourself and others. Have a good week.
+<div class="separator"></div>
 
 #### <span role="img" aria-label="open book">📖</span> To Read
 
@@ -29,6 +30,7 @@ The last weeks of 2020 have been hectic and I’m barely keeping up. Apologies f
 At least 250 Canadian newspapers have shut down since 2013, turning swathes of Canada into "news deserts," where there are few or no journalists covering those communities at all. <span class="thick">Joanna Chiu</span> reports for <span class="thick">The Toronto Star</span>, the issue isn't due to a lack of readership. If anything, Canadian media outlets have seen massive audience growth in print and online. Chiu explores the reasons <a href="https://bit.ly/3fPVYql" target="blank"> why increased readership isn’t translating to increased revenues</a>.
 </li>
 <br>
+<div class="separator"></div>
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
@@ -39,6 +41,7 @@ downplayed the 1918 Flu</a>? (From the <em>On the Media</em> podcast by WNYC Stu
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1069323/&share=1">
 </iframe>
 </figure>
+<div class="separator"></div>
 
 #### <span role="img" aria-label="single eye">👁️</span> To Watch
 
@@ -49,10 +52,11 @@ lives up to its name as it transports viewers right back to the last time they b
 <iframe src="https://player.vimeo.com/video/398636593" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
+<div class="separator"></div>
 
 #### <span role="img" aria-label="sparkler">🎇</span> Other Bits
 
-This <span class="thick">beautiful and informative micro-site</span> by <a href="https://bit.ly/2VfRQGN" target="blank"> Pablo Robles</a> explaining <a href="https://bit.ly/33qX1s7" target=”blank”> the differences among chopsticks</a> <span role="img" aria-label="chopsticks">🥢</span>. 
+This <span class="thick">beautiful and informative micro-site</span> by <a href="https://bit.ly/2VfRQGN" target="blank"> Pablo Robles</a> explaining <a href="https://bit.ly/33qX1s7" target=”blank”> the differences among Chinese, Japanese, and Korean chopsticks</a> <span role="img" aria-label="chopsticks">🥢</span>. 
  
 
 

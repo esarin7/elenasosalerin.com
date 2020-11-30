@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1604173675/notes/cosmin-serban-lights-museum-unsplash_qzrk8b.jpg" loading="lazy" alt="People admiring a light show inside an art gallery." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> <a href="https://unsplash.com/photos/2fn_pxLMS9g">Cosmin Serban</a> / Unsplash</p>
+    <p><span class="thick">Photo: <a href="https://unsplash.com/photos/2fn_pxLMS9g">Cosmin Serban</a> / Unsplash </span></p>
 </figcaption>
 </figure>
 

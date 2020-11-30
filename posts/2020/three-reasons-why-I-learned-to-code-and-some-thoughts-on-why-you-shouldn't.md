@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_limit,q_auto,w_206/v1605472430/notes/learning-code_oeckhc.svg" loading="lazy" alt="A grapic of a lady with a computer with a speech bubble that reads, I don't know why my code works" class="lazyload">
 <figcaption>
-    <p>This happens a lot. I've spent hours, if not weeks figuring out the "why."<br><span class="thick"> Image:</span> I created it using Canva.</p>
+    <p>This happens a lot. I've spent hours, if not weeks figuring out the "why."<br><span class="thick"> Image: I created it using Canva.</span></p>
 </figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ While over half of the developers write their first line of code when they're ar
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1605559312/notes/coding-by-age_cnlljm.png" loading="lazy" alt="Chart showing that one percent of people between the ages of 26 to 27 start coding, while 1.6 percent of people older than 30 start doing so. Most developers write their first line of code when they're 14." class="lazyload">
 <figcaption>
-    <p><span class="thick">Source:</span> Stack Overflow Developer <a href="https://insights.stackoverflow.com/survey/2019#developer-profile-_-writing-that-first-line-of-code" target="blank"> Survey Results</a> from 2019</p>
+    <p><span class="thick">Source: Stack Overflow Developer <a href="https://insights.stackoverflow.com/survey/2019#developer-profile-_-writing-that-first-line-of-code" target="blank"> Survey Results</a> from 2019 </span></p>
 </figcaption>
 </figure>
 
