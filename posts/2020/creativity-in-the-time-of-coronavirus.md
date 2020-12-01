@@ -1,7 +1,7 @@
 ---
 title: "Creativity in the Time of Covid-19" 
 date: 2020-11-26 21:38:16
-description: Three examples that show how Covid-19 limitations are opening new possibilities in sectors such as photojournalism, healthcare, and art.
+description: Three examples that show how Covid-19 limitations are opening new possibilities in sectors like photojournalism, healthcare, and art.
 author: 'Elena Sosa Lerín'
 ---
 I’ve been wondering about the manifestation of creativity in these times of pandemic turmoil. This year, every day, we’ve been oscillating between peril and hope, regression and progress. Our <a href="https://bit.ly/3q3o9XC" target="blank"> mental health is worsening</a>, <a href="https://bit.ly/3fC89Hy" target="blank"> employment has plummeted</a>, and <a href="https://wapo.st/3lbbDS9" target="blank"> education is experiencing unprecedented disruption</a>. 
@@ -10,7 +10,7 @@ Everything is at a standstill, but it's also changing.
 
 History has taught us that crises like this one are also opportunities for imagination, creativity, and experimentation, leading to new discoveries and shaping new possibilities.
 
-These are three examples of how current Covid-19 challenges and limitations open new perspectives and carve new paths.
+These are three examples of how current Covid-19 challenges and limitations are pushing people to think out of the box.
 
 #### 1. Amplifying Local Voices Through Collaboration in International Photojournalism 
 <figure>
@@ -36,7 +36,7 @@ Dismantling the systems that have traditionally excluded African photographers f
 </blockquote>
 <br>
 
-#### 2. Building Resilience to Respond to Global Health Care Emergencies
+#### 2. Recognizing Global Health Needs Resilience, Not Just More Medical Equipment
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto,w_600/v1606454955/notes/ventilator-production_hsx83b.jpg" loading="lazy" alt="Workers manufacturing ventilator parts." class="lazyload">
 <figcaption>
