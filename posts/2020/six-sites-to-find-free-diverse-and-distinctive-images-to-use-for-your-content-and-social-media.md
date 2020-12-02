@@ -112,7 +112,7 @@ Stock photography isn’t your only source or asset for visual content. You can 
 
  
 ### Over to you
-Hope this gets your creative juices flowing. Don't forget to double-check the licence of any photo you intend to use to avoid trouble. Even when the licence doesn't require attribution to the author, <span class="thick">it's always a nice thing give credit where it's due, if possible.</span>
+Hope this gets your creative juices flowing. Don't forget to double-check the licence of any photo you intend to use to avoid trouble. Even when the licence doesn't require attribution to the author, <span class="thick">it's always a nice thing to give credit where it's due, if possible.</span>
 
 Do you know of other stock photo sources that feature diversity and unique photographic takes? Tweet or email me your favourites.
 
