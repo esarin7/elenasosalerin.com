@@ -45,9 +45,9 @@ Learning to code meant that I could no longer riddle my mind with excuses. I fin
 
 But I didn't want a blog. I wanted to create a space where I could express myself, be creative, a place where I could play, experiment, and improve my coding and design skills. 
 
-More importantly, I wanted to house my own content in one place.
+More importantly, <span class="thick">I wanted to house my own content in one place.</span>
 
-In the past, other than my scattered use of social media platforms, I wrote for a few online publications that eventually went offline. I created content and products for some organizations that were deleted during website revamps. That work is gone. <a href="https://indieweb.org/site-deaths">Dead</a>. I have nothing to show for it. 
+In the past, other than my scattered use of social media platforms, I wrote for a few online publications that eventually went offline. I created content and products for some organizations that were deleted during website revamps. <span class="thick">That work is gone.</span> <a href="https://indieweb.org/site-deaths">Dead</a>. I have nothing to show for it. 
 
 
 I also don't like the idea of someone else owning, controlling, or having rights over *my* content. 
