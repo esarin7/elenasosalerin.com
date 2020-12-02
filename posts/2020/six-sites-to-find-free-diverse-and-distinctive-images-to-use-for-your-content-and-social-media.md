@@ -58,7 +58,7 @@ If you’re looking for diverse and non-cliché images, check out my go-to stock
 
 ### Six Websites to Find Free, Diverse, and Distinctive Images
 #### 1. <a href="https://jopwell.pixieset.com" target="blank">The Jopwell Collection</a> 
-<span class="thick">Pushing for better workplace representation.</span> The Jopwell Collection <a href="https://bit.ly/3lnBI0E" target="blank">visual initiative</a> offers numerous albums with hundreds of images featuring Black and Brown students, interns, and professionals. All photos are free to download, copy, distribute and display under a Creative Commons Attribution license, which asks you to visibly give credit to Jopwell.
+<span class="thick">Pushing for better workplace representation.</span> The Jopwell Collection is a <a href="https://bit.ly/3lnBI0E" target="blank">visual initiative</a> that offers numerous albums with hundreds of images featuring Black and Brown students, interns, and professionals. All photos are free to download, copy, distribute and display under a Creative Commons Attribution license, which asks you to visibly give credit to Jopwell.
 
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1606880211/notes/jopwell_j9ebps.png" loading="lazy" alt="Screenshot of Jopwell's homepage." class="lazyload">
