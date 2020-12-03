@@ -107,10 +107,15 @@ If you’re looking for diverse and non-cliché images, check out my go-to stock
 </figure>
 <br>
 
-### P.S. You can and should add social media content 
-Stock photography isn’t your only source or asset for visual content. You can <a href="https://bit.ly/39xQkYZ" target="blank">embed (public) social media content</a> like Instagram posts, tweets, YouTube or Vimeo videos, or Slideshare decks to your website or blog.
+### P.S. You can (and should) add social media content 
+Stock photography isn’t your only source or asset for visual content. You can <a href="https://bit.ly/39xQkYZ" target="blank">embed (public) social media content</a> to your website or blog, like:
+<ul class="list">
+        <li>Instagram posts</li>
+        <li>Individual tweets</li>
+        <li>YouTube or Vimeo videos</li>
+        <li>Slideshare decks</li>
+</ul>
 
- 
 ### Over to you
 Hope this gets your creative juices flowing. Don't forget to double-check the licence of any photo you intend to use to avoid trouble. Even when the licence doesn't require attribution to the author, <span class="thick">it's always a nice thing to give credit where it's due, if possible.</span>
 
