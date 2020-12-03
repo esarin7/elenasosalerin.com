@@ -73,13 +73,18 @@ Having said that, <span class="thick">you don't have to become a developer to im
 
 Generally, many people <span class="thick">enormously underestimate how hard it is </span> to learn to code. 
 
-It's unfair and enraging that this "advice" is used by <a href="https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists" target="blank"> trolls to harass laid-off journalists</a>. Or that it's presented by <a href="https://twitter.com/CurtisHouck/status/1324896645297954816?ref_src=twsrc%5Etfw" target="blank">ignorant politicians as an obnoxious solution to unemployment</a>.
+It's unfair and enraging that this "advice" is used by <a href="https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists" target="blank"> trolls to harass laid-off journalists</a>. Or that it's presented by ignorant politicians as an obnoxious solution to unemployment:
+
+<blockquote class="twitter-tweet">
+<p>On ABC, Rahm Emanuel literally says a Biden White House should tell people laid off from retail stores like JC Penney to learn to code.<br><br>He actually said this. Amazing. <a href="https://t.co/xlSnVi7445">pic.twitter.com/xlSnVi7445</a> (video)</p>
+<p>&mdash; Curtis Houck (@CurtisHouck) <a href="https://twitter.com/CurtisHouck/status/1324896645297954816?ref_src=twsrc%5Etfw">November 7, 2020</a></p>
+</blockquote>
 
 Ignore anyone who says that coding is easy and that everyone should learn to code. 
 
 Both claims are misleading. 
 
-Learning to code is a continuous process that might not be for everyone. At its core, coding is one of the many toolkits you can use to solve a problem. In other words, coding is just the means to an end. 
+Learning to code is a continuous process that might not be for everyone. At its core, coding is one of the many toolkits you can use to solve a problem. In other words, <span class="thick">it's just the means to an end.</span>
 
 #### Have a frank conversation with yourself about your motivations and ultimate objectives
 
@@ -116,6 +121,9 @@ In a weird way, coding has boosted my confidence. If I can pull through JavaScri
 I see code as one of the many tools that in the future, will help me produce visually engaging, factually-accurate, and informative stories for the organizations I support. 
 
 It's an ongoing, often crushing process, but it's ultimately a rewarding and empowering skill to obtain. 
+
+#### What About You?
+What have you learned that initially intimidated you (maybe it still does)? How did you pull through? Share me with your thoughts or victories.
 <br>
 
 
