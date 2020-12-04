@@ -28,7 +28,7 @@ Keeping informed on climate change and its effects is one way to understand what
 
 <ul class="list">
 <li>
-<span class="thick">Not mincing any words.</span> On Wednesday, the United Nations (UN) warned that humanity is waging what it describes as a <a href="https://cnn.it/3lAwIWp" target=" blank"> "suicidal" war on nature.</a> <span class="thick">CNN's Laura Smith-Spark</span> summarizes the "the searing indictment" of the UN Secretary-General Antonio Guterres on the "broken" state of the planet. 
+<span class="thick">Not mincing any words.</span> On Wednesday, the United Nations (UN) warned that humanity is waging what it describes as a <a href="https://cnn.it/3lAwIWp" target=" blank"> "suicidal" war on nature.</a> <span class="thick">CNN's Laura Smith-Spark</span> summarizes the "searing indictment" of the UN Secretary-General Antonio Guterres on the "broken" state of the planet. 
 </li>
 <br>
 
@@ -43,12 +43,12 @@ Keeping informed on climate change and its effects is one way to understand what
 <br>
 
 <li>
-<span class="thick">Nothing gold can (probably will) stay because of climate change.</span> A study on European forest trees shows <a href="https://bit.ly/37wqvpH" target="blank">climate change will cause autumn leaves to fall earlier in the year</a>. For decades a pattern has been developing where leaves keep falling sooner. This is affecting the capacity of forests to absorb carbon dioxide (CO2). 
+<span class="thick">Nothing gold can (and probably will) stay because of climate change.</span> A study on European forest trees shows <a href="https://bit.ly/37wqvpH" target="blank">climate change will cause autumn leaves to fall earlier in the year</a>. For decades a pattern has been developing where leaves keep falling sooner. This is affecting the capacity of forests to absorb carbon dioxide (CO2). 
 </li>
 <br>
 
 <li>
-<span class="thick">Resilience to climate change helped them navigate this pandemic.</span> <a href="https://bit.ly/3lEj4BP" target="blank">This report</a> from <span class="thick">Inside Climate News</span>, explains how the people from Lombok Island in Indonesia used their planning for frequent climate change disruptions to successfully limit the spread of Covid-19. 
+<span class="thick">Resilience to climate change as a tool to confront this pandemic.</span> <a href="https://bit.ly/3lEj4BP" target="blank">This report</a> from <span class="thick">Inside Climate News</span>, explains how the people from Lombok Island in Indonesia used their planning for frequent climate change disruptions to successfully limit the spread of Covid-19. 
 </li>
 <br>
 <div class="separator"></div>
@@ -60,7 +60,7 @@ Keeping informed on climate change and its effects is one way to understand what
 <figure>
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/12/03/dec-03-2020-hn-one"></iframe>
 <figcaption>
-(Running from 21:54 to 25:42)
+(Report runs from 21:54 to 25:42)
 </figcaption>
 </figure>
 <div class="separator"></div>
