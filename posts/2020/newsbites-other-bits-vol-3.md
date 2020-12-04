@@ -56,7 +56,7 @@ lives up to its name as it transports viewers right back to the last time they b
 
 #### <span role="img" aria-label="sparkler">🎇</span> Other Bits
 
-This <span class="thick">beautiful and informative micro-site</span> by <a href="https://bit.ly/2VfRQGN" target="blank"> Pablo Robles</a> explaining <a href="https://bit.ly/33qX1s7" target=”blank”> the differences among Chinese, Japanese, and Korean chopsticks</a> <span role="img" aria-label="chopsticks">🥢</span>. 
+This <span class="thick">beautiful and informative micro-site</span> by <a href="https://bit.ly/2VfRQGN" target="blank"> Pablo Robles</a> explaining <a href="https://bit.ly/33qX1s7" target=”blank”> the differences among Chinese, Japanese, and Korean chopsticks</a>. <span role="img" aria-label="chopsticks">🥢</span>
  
 
 
