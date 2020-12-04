@@ -1,6 +1,6 @@
 ---
 title: "Newsbites + Other Bits (vol. 4)" 
-date: 2020-11-29 21:11:38
+date: 2020-12-04 02:13:56
 description: In this weekly curation of content from different corners of the internet, I share information on the climate crisis, how badly countries around the world, including Canada, are dealing with it, a couple of visual delights to remind us why we must preserve our planet, and an extraordinary bit if you like chess or enjoyed Netflix's The Queen's Gambit.
 author: 'Elena Sosa Lerín'
 ---
