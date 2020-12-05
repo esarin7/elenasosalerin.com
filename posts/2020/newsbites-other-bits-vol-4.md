@@ -21,14 +21,14 @@ We can't defeat climate change by isolating in our homes, wearing masks, or vacc
 
 Keeping informed on climate change and its effects is one way to understand what it means and how to cope with it. New reports this week make it clear that action on the climate is badly overdue. We have to start demanding more and better from our leaders.
 
-<span role="img" aria-label="heart">❤️</span> Be kind to yourself and others.
+<span role="img" aria-label="heart">❤️</span> Be kind to yourself and others. Have a good weekend.
 <div class="separator"></div>
 
 #### <span role="img" aria-label="open book">📖</span> To Read
 
 <ul class="list">
 <li>
-<span class="thick">Not mincing any words.</span> On Wednesday, the United Nations (UN) warned that humanity is waging what it describes as a <a href="https://cnn.it/3lAwIWp" target=" blank"> "suicidal" war on nature.</a> <span class="thick">CNN's Laura Smith-Spark</span> summarizes the "searing indictment" of the UN Secretary-General Antonio Guterres on the "broken" state of the planet. 
+<span class="thick">Not mincing any words.</span> On Wednesday, the United Nations (UN) warned that humanity is waging what it describes as a <a href="https://cnn.it/3lAwIWp" target=" blank"> "suicidal" war on nature.</a> This is a good summary on the "searing indictment" of the UN Secretary-General Antonio Guterres on the "broken" state of the planet. 
 </li>
 <br>
 
@@ -48,14 +48,14 @@ Keeping informed on climate change and its effects is one way to understand what
 <br>
 
 <li>
-<span class="thick">Resilience to climate change as a tool to confront this pandemic.</span> <a href="https://bit.ly/3lEj4BP" target="blank">This report</a> from <span class="thick">Inside Climate News</span>, explains how the people from Lombok Island in Indonesia used their planning for frequent climate change disruptions to successfully limit the spread of Covid-19. 
+<span class="thick">Resilience to climate change as a tool to confront this pandemic.</span> <a href="https://bit.ly/3lEj4BP" target="blank">This report</a> from <span class="thick">Inside Climate News</span>, explains how the people from Lombok Island in Indonesia used their planning for frequent climate change disruptions to successfully limit the spread of COVID-19. 
 </li>
 <br>
 <div class="separator"></div>
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
-<span class="thick">Detecting Covid-19 through sound?</span><span role="img" aria-label="crossed fingers">🤞</span>This is a fascinating story on scientists who are working on narrowing down who should be tested for Covid-19 by using sounds hidden in human vocal cords. (From the <em>Here & Now</em> podcast, a production by NPR and WBUR Boston.)
+<span class="thick">Detecting COVID-19 through sound?</span><span role="img" aria-label="crossed fingers">🤞</span>This is a fascinating story on scientists who are working on narrowing down who should be tested for COVID-19 by using sounds hidden in human vocal cords. (From the <em>Here & Now</em> podcast, a production by NPR and WBUR Boston.)
 
 <figure>
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/12/03/dec-03-2020-hn-one"></iframe>

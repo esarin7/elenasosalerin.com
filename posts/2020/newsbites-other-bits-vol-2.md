@@ -54,8 +54,15 @@ The populations that least contribute to climate change are bearing the brunt of
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
-If you like fútbol and have questions or deep feelings on how Spain pulverized Germany this week in the Nations League (6 – 0 <span role="img" aria-label="face screaming in shock">😱</span>), the <a href="https://twitter.com/stadio" target="blank">Stadio</a> guys, Ryan Hunn and Musa Okwonga 
-<a href="https://spoti.fi/35PMnwB" target="blank"> offer a top-notch dissection of what happened</a>, talk about celebrities owning fútbol clubs (Hi, <a href="https://yhoo.it/2J3e7oj" target="blank">Ryan Reynolds</a>!), among other topics.
+If you like fútbol and have questions or deep feelings on how <span class="thick">Spain pulverized Germany this week in the Nations League</span> (6 – 0 <span role="img" aria-label="face screaming in shock">😱</span>), the <a href="https://twitter.com/stadio" target="blank">Stadio</a> guys, Ryan Hunn and Musa Okwonga offer a top-notch dissection of what happened, talk about celebrities owning fútbol clubs (Hi, <a href="https://yhoo.it/2J3e7oj" target="blank">Ryan Reynolds</a>!), among other topics.
+
+
+<figure>
+<iframe src="https://open.spotify.com/embed-podcast/episode/5r0MLToGpF1H7wTfvFUNHf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<figcaption>
+(Go for the analysis, stay for Musa's marvelous husky voice.)
+</figcaption>
+</figure>
 
 <div class="separator"></div>
 
