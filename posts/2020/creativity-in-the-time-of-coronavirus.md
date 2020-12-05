@@ -10,7 +10,7 @@ Everything is at a standstill, but it's also changing.
 
 History has taught us that crises like this one are also opportunities for imagination, creativity, and experimentation, leading to new discoveries and shaping new possibilities.
 
-These are three examples of how current COVID-19 challenges and limitations are pushing people to think out of the box.
+These are three examples of how current COVID-19 challenges and limitations are pushing people to think out the box.
 
 #### 1. Amplifying Local Voices Through Collaboration in International Photojournalism 
 <figure>
