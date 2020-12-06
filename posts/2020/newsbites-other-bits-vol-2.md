@@ -1,5 +1,5 @@
 ---
-title: "Newsbites + Other Bits (vol. 2)" 
+title: "Newsbites + Other Bits: A Weekly Roundup (vol. 2)" 
 date: 2020-11-21 16:14:13
 description: In this weekly curation of links from different corners of the internet, I share a few perspectives of the long-term impacts of the COVID-19 pandemic on our mental well-being, reports on the devastating effects of hurricanes Eta and Iota on Central American countries, and some amusing online diversions. 
 author: 'Elena Sosa Lerín'

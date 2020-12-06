@@ -1,5 +1,5 @@
 ---
-title: "Newsbites + Other Bits (vol. 3)" 
+title: "Newsbites + Other Bits: A Weekly Roundup (vol. 3)" 
 date: 2020-11-29 21:11:38
 description: In this weekly curation of links from different corners of the internet, I share articles on the impacts of the pandemic on international and Canadian media, why the international press downplayed the flu of 1918, and a funny animated video that captures the embarrassing social moments many of us have experienced at least once. 
 author: 'Elena Sosa Lerín'

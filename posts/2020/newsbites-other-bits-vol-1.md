@@ -1,5 +1,5 @@
 ---
-title: "Newsbites + Other Bits (vol. 1)" 
+title: "Newsbites + Other Bits: A Weekly Roundup (vol. 1)" 
 date: 2020-11-06 09:12:58
 description: Welcome to my first weekly roundup of content from different corners of the internet I think you’d enjoy checking out. After this week, we all need a mental break to recalibrate. 
 author: 'Elena Sosa Lerín'
