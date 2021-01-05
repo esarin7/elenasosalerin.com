@@ -542,6 +542,11 @@ footer .item.text p {
   font-size: 14px;
 }
 
+footer svg:hover {
+  fill: #fed364;
+  text-decoration: none;
+}
+
 /* copyright and back to top position*/
 
 .copyright,
