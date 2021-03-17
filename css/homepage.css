@@ -90,7 +90,7 @@ a.intro-button:hover {
 }
 
 .animateYellow {
-  animation-duration: 5s;
+  animation-duration: 3s;
 
   animation-fill-mode: forwards;
 
@@ -105,12 +105,12 @@ a.intro-button:hover {
   }
 
   to {
-    color: #5e7dbb;
+    color: #5dbdb1;
   }
 }
 
 .animateLightBlue {
-  animation-duration: 7s;
+  animation-duration: 2s;
 
   animation-fill-mode: forwards;
 
@@ -130,7 +130,7 @@ a.intro-button:hover {
 }
 
 .animateOrange {
-  animation-duration: 5s;
+  animation-duration: 3s;
 
   animation-fill-mode: forwards;
 
@@ -141,7 +141,7 @@ a.intro-button:hover {
 
 @keyframes fadeInTurquoise {
   from {
-    color: #fefae7;
+    color: #fed364;
   }
 
   to {
@@ -150,7 +150,7 @@ a.intro-button:hover {
 }
 
 .animateTurquoise {
-  animation-duration: 7s;
+  animation-duration: 2s;
 
   animation-fill-mode: forwards;
 
@@ -165,13 +165,13 @@ a.intro-button:hover {
   }
 
   to {
-    color: #fefae7;
+    color: #1e2144;
   }
 }
 
 .dynamic span:hover {
   cursor: cell;
-  animation-duration: 6s;
+  animation-duration: .1s;
 
   animation-fill-mode: forwards;
 
@@ -211,6 +211,10 @@ a.intro-button:hover {
     margin-bottom: 0px;
   }
 }
+
+.section-split {
+  border-top: 8px solid #ff6640;
+} 
 /* /* * * * * * * * * * * * * * * * * * * * *
              Latest post 
 * * * * * * * * * * * * * * * * * * * * */

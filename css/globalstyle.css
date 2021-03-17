@@ -53,6 +53,11 @@ html {
   }
 }
 
+/* Style of section division at footer */
+.section-split-dashed {
+  border-top: 4px solid #fed365;
+}
+
 /* Style of selected text */
 ::-moz-selection {
   background: #5dbdb1;
