@@ -53,7 +53,7 @@ Yet. I thoroughly enjoy coding. Before you think I've lost my mind, let me expla
 
 You can be technically literate without becoming a web developer or designer. But I chose to learn to code because I wanted to have a solid working knowledge of technology to ask the right questions to tech teams. I wanted to speak the developer's language to be more engaged and efficient in our collaboration. 
 
-More importantly, knowing the ins and outs of web development makes it easier for me as a comms officer to explain to my non-tech colleagues and managers what's happening and why. This is useful when it comes to managing expectations. 
+More importantly, knowing the ins and outs of web development makes it easier for me as a communications professional to explain to my non-tech colleagues and managers what's happening and why. This is useful when it comes to managing expectations. 
 
 #### Reason no. 2: Coding helps you approach challenges from a new perspective 
 
@@ -123,7 +123,7 @@ I see code as one of the many tools that in the future, will help me produce vis
 It's an ongoing, often crushing process, but it's ultimately a rewarding and empowering skill to obtain. 
 
 #### What About You?
-What have you learned that initially intimidated you (maybe it still does)? How did you pull through? Share me with your thoughts or victories.
+What have you learned that initially intimidated you (maybe it still does)? How did you pull through? Share with me your thoughts, challenges, or victories.
 <br>
 
 
