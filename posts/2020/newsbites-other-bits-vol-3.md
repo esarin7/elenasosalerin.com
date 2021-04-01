@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_600/v1606709712/weekly%20editions/tacos_wgya1j.jpg" loading="lazy" alt="Taqueros preparing tacos." class="lazyload">
 <figcaption>
-    <p>Sunday night nostalgia. Sorely missing my baes (the taqueros) and their love (tacos [especially suadero]). <span class="thick"> Image: From the Instagram of one of my favourite taquerías, <a href="https://www.instagram.com/tacoscocuyos/" target="blank"> Los Cocuyos</a>, in downtown Mexico City.</span></p>
+    <p>Sunday night nostalgia. Sorely missing tacos (especially tacos de suadero). <span class="thick"> Image: From the Instagram of one of my favourite taquerías, <a href="https://www.instagram.com/tacoscocuyos/" target="blank"> Los Cocuyos</a>, in downtown Mexico City.</span></p>
 </figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ The last weeks of 2020 have been hectic and I’m barely keeping up. Apologies f
 
 <ul class="list">
 <li>
-<span class="thick">The Reuters Institute for the Study of Journalism at Oxford University</span> released a <a href=" https://bit.ly/3mjTTWc" target=" blank"> report on how Covid-19 has impacted independent news outlets worldwide</a>. The report reveals interesting insights on how and why the pandemic will dramatically and unequally impact independent news media. A few independent outlets will benefit from this crisis, but many more will lose. 
+<span class="thick">The Reuters Institute for the Study of Journalism at Oxford University</span> released a <a href=" https://bit.ly/3mjTTWc" target=" blank"> report on how Covid-19 has impacted independent news outlets worldwide</a>. It reveals interesting insights on how and why the pandemic will dramatically and unequally impact independent news media. A few independent outlets will benefit from this crisis, but many more will lose. 
 </li>
 <br>
 
