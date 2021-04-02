@@ -13,7 +13,7 @@ Dr. Kakande explained during an interview with Lukan David, Radio Miraya's host,
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603158662/articles/edited-0187_kp93bv.jpg" loading="lazy" alt="Radio interview at Radio Miraya." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Initiative. Dr. Kakande (bottom right) listens to one of his "twins" talk about the progress they've made.</p>
+    <p>Interview at Radio Miraya in Juba, South Sudan's capital, about the impact of the IGAD Initiative. Dr. Kakande (bottom right) listens to one of his "twins" talk about the progress they've made. <span class="thick">Photo:</span> Elena Sosa Lerín/UNDP</p>
 </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The surgeons saved his life by amputating it. There was no other option. Paulino
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto,w_600,y_0/v1603158634/articles/edited-0182_ovzeqz.jpg" loading="lazy" alt="Close shot of the faces of the interviewees." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Former patient, Alexander Paulino (left) and "twin" Mabor Matuiery share their experiences about navigating South Sudan’s challenging public health sector.</p>
+    <p>Former patient, Alexander Paulino (left) and "twin" Mabor Matuiery share their experiences about navigating South Sudan’s challenging public health sector. <span class="thick">Photo:</span> Elena Sosa Lerín/UNDP</p>
 </figcaption>
 </figure>
 

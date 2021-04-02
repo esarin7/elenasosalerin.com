@@ -8,7 +8,7 @@ author: 'Elena Sosa Lerín'
 <img data-src="
 https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_640/v1603405366/articles/malawi_cartoonist_wviwa9.jpg" loading="lazy" alt="Kunyenje drawing at his desk." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Political cartoonist Hazwel Kunyenje draws, on average, 15 cartoons per week. Depending on the level of detail, creating a cartoon might take him from 15 minutes to four hours.</p>
+    <p>Political cartoonist Hazwel Kunyenje draws, on average, 15 cartoons per week. Depending on the level of detail, creating a cartoon might take him from 15 minutes to four hours. <span class="thick">Photo:</span> Elena Sosa Lerín</p>
 </figcaption>
 </figure>
 

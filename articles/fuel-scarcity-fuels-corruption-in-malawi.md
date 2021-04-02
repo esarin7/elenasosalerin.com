@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,q_auto:good,w_660/v1603411283/articles/gas-station-malawi_sefscm.jpg" loading="lazy" alt="People and cars waiting for fuel." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Amidst severe fuel scarcities, frustrated drivers queue at a gas station after being tipped off that a tanker is set to arrive to offload petrol.</p>
+    <p>Amidst severe fuel scarcities, frustrated drivers queue at a gas station after being tipped off that a tanker is set to arrive to offload petrol. <span class="thick">Photo:</span> Elena Sosa Lerín</p>
 </figcaption>
 </figure>
 

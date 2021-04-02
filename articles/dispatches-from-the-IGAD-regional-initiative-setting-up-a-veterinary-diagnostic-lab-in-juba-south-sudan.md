@@ -46,6 +46,9 @@ On the other hand, a <a href="http://www.fao.org/fileadmin/user_upload/emergenci
 
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto/v1603329037/articles/infographic_animaldisease__moiw9z.png" loading="lazy" alt="Infographic on cattle diseases." class="lazyload">
+<figcaption>
+<p>Graphic: Created by Elena Sosa Lerín</p>
+</figcaption>
 </figure>
 <br>
 

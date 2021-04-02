@@ -21,7 +21,7 @@ Today, the health centre receives an average of 30 women per day.
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_fill,h_1224,q_auto:good/v1603168679/articles/Odukis_Terekeka_image_wvgygt.jpg" loading="lazy" alt="South Sudanese women sitting on a bench wait for their turn to see the nurse-midwife." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span> Mr. Odukis implemented basic but important record keeping on patients' medical information which was not a common practice prior to his arrival.</p>
+    <p>Mr. Odukis implemented basic but important record keeping on patients' medical information which was not a common practice prior to his arrival. <span class="thick">Photo:</span> Elena Sosa Lerín/UNDP</p>
 </figcaption>
 </figure>
 
