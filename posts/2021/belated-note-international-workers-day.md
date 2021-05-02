@@ -7,7 +7,7 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:best/v1619989798/notes/unions_spf4cl.jpg" loading="lazy" alt="An image showing Frida Kahlo and Diego Rivera at the centre of a march in support of unions and workers rights in Mexico City." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo:</span>Tina Modotti</p>
+    <p><span class="thick">Photo:</span> Tina Modotti</p>
 </figcaption>
 </figure>
 
