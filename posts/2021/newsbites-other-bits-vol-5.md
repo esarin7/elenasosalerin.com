@@ -1,7 +1,7 @@
 ---
 title: "Newsbites + Other Bits: A Weekly Roundup (vol. 5)" 
 date: 2021-05-02 13:35:32
-description: After a long hiatus, this weekly curation of content from different corners of the internet is back and it features plenty of culinary and drinking history and fun.
+description: After a long hiatus, this weekly curation of content from different corners of the internet is back, featuring fun and insightful bits of gastronomic and boozy historical content as a break from the pandemic gloom. 
 author: 'Elena Sosa Lerín'
 ---
 <figure>
