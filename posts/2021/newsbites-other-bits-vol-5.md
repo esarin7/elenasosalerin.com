@@ -13,7 +13,7 @@ author: 'Elena Sosa Lerín'
 
 #### A weekly edition of content I think you'd like to read, listen to, and watch
 
-Hey there! It’s been a while. Thank you for your messages wondering about what happened to this weekly roundup. It’s nice to know there are people out there reading this space. 
+Hey there! <span role="img" aria-label="Waving hand" class="wave">👋</span> It’s been a while. Thank you for your messages wondering about what happened to this weekly roundup. It’s nice to know there are people out there reading this space. 
 
 After 14 months of living by and through a screen – marathon video calls, regular online orders, reading social media posts about people believing the pandemic is a hoax and equating wearing masks with oppression – spending time online <a href="https://www.elenasosalerin.com/posts/2021/a-year-or-so-later-how-my-life-has-changed-since-the-onset-of-the-pandemic/">is a mental and physical endurance exercise</a>.
 
