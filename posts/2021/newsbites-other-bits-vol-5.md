@@ -40,7 +40,7 @@ Therefore, this week’s roundup is dedicated to gastronomic delights and intere
 <br>
 
 <li>
-<span class="thick">Indulge in West African cuisine recipes and history.</span> <em>Feast Afrique</em> is a digital library of West African gastronomy. It includes cookbooks dating back as far as 1828. Its creator, Ozoz Sokoh, talks to <a href="https://bit.ly/3eLHpUR" target=" blank"><span class="thick">Sahelien</a></span>’s <span class="thick">Kay Ugwuede</span> about this remarkable historical archive. For Sokoh it was important “to remove this narrative that enslaved West Africans were on the farm and in the kitchen. It was beyond physical labor. They weren’t just toiling and cooking and sweating. They brought knowledge systems, they brought techniques, skills, toolkits, and these books were a reminder of that.”
+<span class="thick">Indulge in West African cuisine recipes and history.</span> <em>Feast Afrique</em> is a digital library of West African gastronomy. It includes cookbooks dating back as far as 1828. Its creator, Ozoz Sokoh, talked to <a href="https://bit.ly/3eLHpUR" target=" blank"><span class="thick">Sahelien</a></span>’s <span class="thick">Kay Ugwuede</span> about this remarkable historical archive. For Sokoh it was important “to remove this narrative that enslaved West Africans were on the farm and in the kitchen. It was beyond physical labor. They weren’t just toiling and cooking and sweating. They brought knowledge systems, they brought techniques, skills, toolkits, and these books were a reminder of that.”
 </li>
 <br>
 <div class="separator"></div>
@@ -59,7 +59,7 @@ Therefore, this week’s roundup is dedicated to gastronomic delights and intere
 
 <span class="thick">Enjoy cocktails with a curator.</span> The Frick Museum in New York City <a href="https://bit.ly/3gWO15y" target="blank">every first Friday of the month</a> used to hold in-person sessions where curators would give mini lectures on the significance and historical context of certain paintings in the museum’s collection. 
 
-Not wanting to lose this tradition during the pandemic, the museum adapted and created <a href="https://www.youtube.com/playlist?list=PLNVeJpU2DHHR_0y_Zvgn3MgZQQFcFx2eI" target="blank">online weekly episodes</a> where curators match each selection with recipes for make-at-home themed drinks (with our without alcohol). 
+Not wanting to lose this tradition during the pandemic, the museum adapted and created <a href="https://www.youtube.com/playlist?list=PLNVeJpU2DHHR_0y_Zvgn3MgZQQFcFx2eI" target="blank">online weekly episodes</a> where curators match each selection with recipes for make-at-home themed drinks (with or without alcohol). 
 
 As much as I miss going out, I also love experiencing these entertaining and educational videos in full <a href="https://bit.ly/3xK580b" target="blank"> kalsarikännit</a> from the comfort of my couch.
 
