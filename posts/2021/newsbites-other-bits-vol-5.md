@@ -13,9 +13,13 @@ author: 'Elena Sosa Lerín'
 
 #### A weekly edition of content I think you'd like to read, listen to, and watch
 
-Hey there! It’s been a while. Thank you for your messages wondering about what happened to this weekly roundup. It’s nice to know there are people out there reading this space. After 14 months or so of living by and through a screen – marathonic video calls, regular online orders, reading social media posts about people believing the pandemic is a hoax and equating wearing masks with oppression – make spending time online <a href="https://www.elenasosalerin.com/posts/2021/a-year-or-so-later-how-my-life-has-changed-since-the-onset-of-the-pandemic/">an increasingly mental and physical endurance exercise</a>.
+Hey there! It’s been a while. Thank you for your messages wondering about what happened to this weekly roundup. It’s nice to know there are people out there reading this space. 
 
-The kitchen is where I’ve found a respite from the pandemic. It’s one of the few spaces where I feel comfort and joy. Eating, drinking, and reading about food and wine have been my saviours and consolations thus far. 
+After 14 months of living by and through a screen – marathon video calls, regular online orders, reading social media posts about people believing the pandemic is a hoax and equating wearing masks with oppression – spending time online <a href="https://www.elenasosalerin.com/posts/2021/a-year-or-so-later-how-my-life-has-changed-since-the-onset-of-the-pandemic/">is a mental and physical endurance exercise</a>.
+
+The kitchen is where I’ve found a respite from the pandemic. It’s one of the few spaces where I feel comfort and joy. 
+
+Eating, drinking, and reading about food and wine have been my saviours and consolations thus far. 
 
 Therefore, this week’s roundup is dedicated to gastronomic delights and interests. 
 
@@ -26,7 +30,7 @@ Therefore, this week’s roundup is dedicated to gastronomic delights and intere
 
 <ul class="list">
 <li>
-<span class="thick">The French women warriors who served wine on the battlefield.</span> Besides selling wine and cooking for French troops, <span class="thick">Kari Elgin</span> writes in <a href="http://bit.ly/2eVAxpt" target=" blank"><span class="thick"> Messy Nessy</a></span> that these fearless women “were key to maintaining a successful army by managing supplies and providing logistical support to those at war, therefore ensuring the livelihood of French soldiers. They served as prominent members of the French Army from the early 1700s up to World War I." Like the article points out, echoes of les Vivandières resonate in other armies. I'm reminded of <a href="https://bit.ly/2RmYLiD" target=" blank"><span class="thick"> Las Soldaderas</a></span> during the Mexican Revolution. 
+<span class="thick">The French women warriors who served wine on the battlefield.</span> Besides selling wine and cooking for French troops, <span class="thick">Kari Elgin</span> writes in <a href="http://bit.ly/2eVAxpt" target=" blank"><span class="thick"> Messy Nessy</a></span> that these fearless women “were key to maintaining a successful army by managing supplies and providing logistical support to those at war, therefore ensuring the livelihood of French soldiers. They served as prominent members of the French Army from the early 1700s up to World War I." Like the article points out, echoes of les Vivandières resonate in other armies. I'm reminded of <a href="https://bit.ly/2RmYLiD" target=" blank"><span class="thick"> Las Soldaderas</a></span> of the Mexican Revolution. 
 </li>
 <br>
 
@@ -36,14 +40,14 @@ Therefore, this week’s roundup is dedicated to gastronomic delights and intere
 <br>
 
 <li>
-<span class="thick">Indulge in West African cuisine recipes and history.</span> Feast Afrique is a digital library of West African gastronomy. It includes cookbooks dating back as far as 1828. Its creator, Ozoz Sokoh, talks to <a href="https://bit.ly/3eLHpUR" target=" blank"><span class="thick">Sahelien</a></span>’s <span class="thick">Kay Ugwuede</span> about this important historical archive. For Sokoh it was important “to remove this narrative that enslaved West Africans were on the farm and in the kitchen. It was beyond physical labor. They weren’t just toiling and cooking and sweating. They brought knowledge systems, they brought techniques, skills, toolkits, and these books were a reminder of that.”
+<span class="thick">Indulge in West African cuisine recipes and history.</span> <em>Feast Afrique</em> is a digital library of West African gastronomy. It includes cookbooks dating back as far as 1828. Its creator, Ozoz Sokoh, talks to <a href="https://bit.ly/3eLHpUR" target=" blank"><span class="thick">Sahelien</a></span>’s <span class="thick">Kay Ugwuede</span> about this remarkable historical archive. For Sokoh it was important “to remove this narrative that enslaved West Africans were on the farm and in the kitchen. It was beyond physical labor. They weren’t just toiling and cooking and sweating. They brought knowledge systems, they brought techniques, skills, toolkits, and these books were a reminder of that.”
 </li>
 <br>
 <div class="separator"></div>
 
 #### <span role="img" aria-label="ear">👂</span> To Listen
 
-<span class="thick">Cook or drink along Marcos Valle’s full boogie funk.</span> If colours could dance, they’d do it to the beat of Strelar. It’s one of my favourite songs by one of <a href="https://bit.ly/3xGqRpM" target="blank">my favourite musicians</a>. It’s the perfect soundtrack to pour yourself a glass of (your choice of poison) or chop some veggies. 
+<span class="thick">Cook or drink along Marcos Valle’s full boogie funk.</span> If colours could dance, they’d do it to the beat of the song <em>Strelar</em>. It’s one of my favourite songs by one of <a href="https://bit.ly/3xGqRpM" target="blank">my favourite musicians</a>. It’s the perfect soundtrack to pour yourself a glass of (your choice of poison) or chop some veggies. 
 
 
 <figure>
@@ -53,7 +57,11 @@ Therefore, this week’s roundup is dedicated to gastronomic delights and intere
 
 #### <span role="img" aria-label="single eye">👁️</span> To Watch
 
-<span class="thick">Enjoy cocktails with a curator.</span> The Frick Museum in New York City <a href="https://bit.ly/3gWO15y" target="blank">every first Friday of the month</a> used to hold sessions where curators would give mini lectures on the significance and historical context of certain paintings in the museum’s collection. Not wanting to lose this tradition during the pandemic, the museum adapted and created <a href="https://www.youtube.com/playlist?list=PLNVeJpU2DHHR_0y_Zvgn3MgZQQFcFx2eI" target="blank">weekly episodes</a> where curators match each selection with recipes for make-at-home themed drinks, with our without alcohol. As much as I miss going out, I also love experiencing these entertaining and educational videos in full <a href="https://bit.ly/3xK580b" target="blank"> kalsarikännit</a> from the comfort of my couch.
+<span class="thick">Enjoy cocktails with a curator.</span> The Frick Museum in New York City <a href="https://bit.ly/3gWO15y" target="blank">every first Friday of the month</a> used to hold in-person sessions where curators would give mini lectures on the significance and historical context of certain paintings in the museum’s collection. 
+
+Not wanting to lose this tradition during the pandemic, the museum adapted and created <a href="https://www.youtube.com/playlist?list=PLNVeJpU2DHHR_0y_Zvgn3MgZQQFcFx2eI" target="blank">online weekly episodes</a> where curators match each selection with recipes for make-at-home themed drinks (with our without alcohol). 
+
+As much as I miss going out, I also love experiencing these entertaining and educational videos in full <a href="https://bit.ly/3xK580b" target="blank"> kalsarikännit</a> from the comfort of my couch.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zjoTnUXflAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
