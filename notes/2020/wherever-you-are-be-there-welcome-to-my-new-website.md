@@ -7,14 +7,14 @@ author: 'Elena Sosa Lerín'
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/q_auto:good/v1604173675/notes/cosmin-serban-lights-museum-unsplash_qzrk8b.jpg" loading="lazy" alt="People admiring a light show inside an art gallery." class="lazyload">
 <figcaption>
-    <p><span class="thick">Photo: <a href="https://unsplash.com/photos/2fn_pxLMS9g">Cosmin Serban</a> / Unsplash </span></p>
+    <p><span class="thick">Photo:</span> <a href="https://unsplash.com/photos/2fn_pxLMS9g">Cosmin Serban</a> / Unsplash </p>
 </figcaption>
 </figure>
 
 
-In the past twelve years, I've lived in ten countries across three continents. I've left breadcrumbs of my views and experiences scattered around in different digital spaces. I started with <a href=”https://en.wikipedia.org/wiki/Hi5”> Hi5</a>, later used <a href=”https://www.feedough.com/does-myspace-still-exist-why-did-myspace-fail/”>MySpace</a>, followed by Facebook, then Twitter, and later Instagram. 
+I've lived in ten countries across three continents in the past twelve years. I've left breadcrumbs of my views and experiences scattered around in different digital spaces. I started with <a href=”https://en.wikipedia.org/wiki/Hi5”> Hi5</a>, later used <a href=”https://www.feedough.com/does-myspace-still-exist-why-did-myspace-fail/”>MySpace</a>, followed by Facebook, then Twitter, and later Instagram. 
 
-Throughout the years, as I kept moving from country to country, many friends suggested I started a blog. I contemplated the idea a few times, but self-doubt always won. Ironically, for someone who makes her living mostly by writing, I wondered if anything I had to say had any value. 
+As I kept moving from country to country, friends suggested I started a blog. I contemplated the idea a few times, but self-doubt always won. Ironically, for someone who makes her living mostly by writing, I wondered if anything I had to say had any value. 
 
 
 #### When in deep self-doubt, excuses are excellent tools for self-sabotage
