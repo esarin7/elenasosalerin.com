@@ -1,5 +1,5 @@
 {
-    "layout": "layouts/note.njk",
+    "layout": "layouts/post.njk",
 
     "sitemap": {
         "changefreq": "weekly",
@@ -7,6 +7,6 @@
       }, 
 
     "tags": [
-        "notes"
+        "posts"
     ]
 }
