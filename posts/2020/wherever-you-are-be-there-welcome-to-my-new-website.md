@@ -66,6 +66,10 @@ As for the self-doubt about my writing, I agree with this opinion:
 </p>
 </blockquote>
 
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p>&mdash; Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608?ref_src=twsrc%5Etfw">August 23, 2016</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 From now on, this is where I'll be telling and sharing my stories, my thoughts, and what I care about. Seth Godin is right when he <a href="https://seths.blog/2010/11/where-do-ideas-come-from/">wrote</a>:
 
 <blockquote>
