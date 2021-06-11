@@ -59,14 +59,6 @@ After eight months of trials and errors, several screams of frustration in betwe
 As for the self-doubt about my writing, I agree with this opinion:
 
 <blockquote class="twitter-tweet">
-<p>
-(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a>
-</p>
-<p>&mdash;Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608">August 23, 2016</a>
-</p>
-</blockquote>
-
-<blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">(Let the reader decide what&#39;s a waste of time. Write what you want.) <a href="https://twitter.com/silviakillings?ref_src=twsrc%5Etfw">@silviakillings</a> <a href="https://twitter.com/kellyconaboy?ref_src=twsrc%5Etfw">@kellyconaboy</a></p>&mdash; Kate McKean (@kate_mckean) <a href="https://twitter.com/kate_mckean/status/768166928858820608?ref_src=twsrc%5Etfw">August 23, 2016</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
