@@ -39,36 +39,44 @@ pagination:
       <section class="section-split"></section>
 
 <article class="latest-post">
-        <section>
+  <section>
           <header class="latest-post-headline">
             <h2>The Latest</h2>
             <div class="separator"></div>
           </header>
+  
+
 {% for post in posts %}
   <section class="single-post">
           <h3>
-            {{ post.data.title }}
+          <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </h3>
-          <div class="separator"></div>
+           <!-- <div class="separator"></div> -->
           <div class="metadata">
                <p class="date">
                 <span role="img" aria-label="lower-right pencil" class="pencil">&#9998;</span> 
                   <time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time>
                </p>
              </div>
-      
           <p>
             {{ post.data.description }}
           </p>
-        </section>
-        <!-- Continue Reading link -->
+  </section>
+       <!-- Continue Reading link -->
         <div class="continue slide">
           <a href="{{ post.url | url }}">Read More&nbsp;&rarr; </a>
         </div>
 
+  </section>
+  
 
-      </article>
-    {% endfor %}
-</main>
-{% endblock %}          
+   </article> 
+   
+  
+    {% endfor %}  
+ </main>  
+{% endblock %}   
+
+
+
     
