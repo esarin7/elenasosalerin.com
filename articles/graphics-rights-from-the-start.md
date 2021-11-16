@@ -19,5 +19,4 @@ author: 'Elena Sosa Lerín'
 
 <figure>
 <img data-src="https://res.cloudinary.com/esarin72/image/upload/c_limit,q_auto,w_800/v1617403894/articles/social%20media%20RFTS/3_qxmiot.png" loading="lazy" alt="A collage of three Twitter posts." class="lazyload">
-</figure>
-
+</figure>  
